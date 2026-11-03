@@ -1,0 +1,163 @@
+{
+  "proof": "paper/PAPER_PUBLIC_A4.pdf",
+  "native": "paper/PAPER_PUBLIC_A4_INDESIGN.pdf",
+  "pages": 16,
+  "a4": true,
+  "orderedTextMismatches": [],
+  "outsidePage": [],
+  "embeddedFonts": [
+    {
+      "name": "CIZYTO+YoonMyungjoPro760",
+      "bytes": 46932,
+      "type": "Type0"
+    },
+    {
+      "name": "CIZYTO+YoonMyungjoPro730",
+      "bytes": 142612,
+      "type": "Type0"
+    },
+    {
+      "name": "CIZYTO+YoonGothicPro760",
+      "bytes": 12112,
+      "type": "Type0"
+    },
+    {
+      "name": "CIZYTO+YoonGothicPro740",
+      "bytes": 24692,
+      "type": "Type0"
+    }
+  ],
+  "rasterComparison": [
+    {
+      "page": 1,
+      "meanAbsoluteRgbDifference": 1.31671
+    },
+    {
+      "page": 2,
+      "meanAbsoluteRgbDifference": 2.88764
+    },
+    {
+      "page": 3,
+      "meanAbsoluteRgbDifference": 2.49025
+    },
+    {
+      "page": 4,
+      "meanAbsoluteRgbDifference": 1.18041
+    },
+    {
+      "page": 5,
+      "meanAbsoluteRgbDifference": 2.78921
+    },
+    {
+      "page": 6,
+      "meanAbsoluteRgbDifference": 2.12394
+    },
+    {
+      "page": 7,
+      "meanAbsoluteRgbDifference": 4.20516
+    },
+    {
+      "page": 8,
+      "meanAbsoluteRgbDifference": 1.93556
+    },
+    {
+      "page": 9,
+      "meanAbsoluteRgbDifference": 2.79119
+    },
+    {
+      "page": 10,
+      "meanAbsoluteRgbDifference": 0.34375
+    },
+    {
+      "page": 11,
+      "meanAbsoluteRgbDifference": 4.84253
+    },
+    {
+      "page": 12,
+      "meanAbsoluteRgbDifference": 5.36215
+    },
+    {
+      "page": 13,
+      "meanAbsoluteRgbDifference": 0.68638
+    },
+    {
+      "page": 14,
+      "meanAbsoluteRgbDifference": 2.2416
+    },
+    {
+      "page": 15,
+      "meanAbsoluteRgbDifference": 0.64409
+    },
+    {
+      "page": 16,
+      "meanAbsoluteRgbDifference": 3.7657
+    }
+  ],
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 21.6 (Macintosh)",
+    "producer": "Adobe PDF Library 18.0",
+    "creationDate": "D:20261103165121+09'00'",
+    "modDate": "D:20261103165127+09'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "sha256": "323db23a63d343e80047f760512d499a41b238deaee5aa431264bd281016558c",
+  "bytes": 226814,
+  "date": "2026-11-03",
+  "native_application": {
+    "version": "21.6.0.57",
+    "saved_and_reopened_from_disk": true,
+    "pages": 16,
+    "stories": 794,
+    "installed_approved_fonts": 4,
+    "overset_stories": 0,
+    "external_links": 0,
+    "preflight_profile": "[Basic]",
+    "preflight_errors": 0,
+    "reopen_preflight_errors": 0,
+    "verification_modified_document": false
+  },
+  "native_visual_review": {
+    "performed": true,
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "resolution_dpi": 72,
+    "findings": [],
+    "scope": "All pages compared with the reviewed proof: title, body, tables and continuations, diagrams, conclusions, citations and appendices."
+  },
+  "indd": {
+    "path": "paper/PAPER_PUBLIC_A4.indd",
+    "sha256": "e2c12445b7d4da794f1fb463ca77813c096cfe4324c91bf8c6c96f95a9bb9ff1",
+    "bytes": 5988352,
+    "private_path_string_scan_encodings": [
+      "utf-8",
+      "utf-16-le",
+      "utf-16-be"
+    ],
+    "private_path_string_findings": [],
+    "whole_source_font_file_payload_matches": [],
+    "scan_limit": "The INDD is opaque binary. These string and exact-payload checks are not an exhaustive proof about all encoded or compressed content."
+  },
+  "after_export_pdf_processing": false
+}

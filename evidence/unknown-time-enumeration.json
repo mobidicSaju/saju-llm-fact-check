@@ -1,0 +1,688 @@
+{
+  "scope": "Within-engine uncertainty analysis only, not independent calendar correctness.",
+  "fixed_reference_local_time": "2026-11-03T12:00:00",
+  "results": [
+    {
+      "date": "2025-02-03",
+      "minutes_evaluated": 1440,
+      "unknown_output": {
+        "year": "乙巳",
+        "month": "戊寅",
+        "day": "癸卯",
+        "hour": ""
+      },
+      "candidate_minute_counts": {
+        "year": {
+          "甲辰": 1369,
+          "乙巳": 71
+        },
+        "month": {
+          "丁丑": 1369,
+          "戊寅": 71
+        },
+        "day": {
+          "癸卯": 1410,
+          "甲辰": 30
+        },
+        "hour": {
+          "壬子": 90,
+          "癸丑": 120,
+          "甲寅": 120,
+          "乙卯": 120,
+          "丙辰": 120,
+          "丁巳": 120,
+          "戊午": 120,
+          "己未": 120,
+          "庚申": 120,
+          "辛酉": 120,
+          "壬戌": 120,
+          "癸亥": 120,
+          "甲子": 30
+        }
+      },
+      "field_status": {
+        "year": "ambiguous_under_fixed_policy",
+        "month": "ambiguous_under_fixed_policy",
+        "day": "ambiguous_under_fixed_policy",
+        "hour": "ambiguous_under_fixed_policy"
+      },
+      "transitions": [
+        {
+          "time": "00:00",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "壬子"
+          }
+        },
+        {
+          "time": "01:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "癸丑"
+          }
+        },
+        {
+          "time": "03:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "甲寅"
+          }
+        },
+        {
+          "time": "05:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "乙卯"
+          }
+        },
+        {
+          "time": "07:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "丙辰"
+          }
+        },
+        {
+          "time": "09:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "丁巳"
+          }
+        },
+        {
+          "time": "11:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "戊午"
+          }
+        },
+        {
+          "time": "13:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "己未"
+          }
+        },
+        {
+          "time": "15:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "庚申"
+          }
+        },
+        {
+          "time": "17:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "辛酉"
+          }
+        },
+        {
+          "time": "19:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "壬戌"
+          }
+        },
+        {
+          "time": "21:30",
+          "natal": {
+            "year": "甲辰",
+            "month": "丁丑",
+            "day": "癸卯",
+            "hour": "癸亥"
+          }
+        },
+        {
+          "time": "22:49",
+          "natal": {
+            "year": "乙巳",
+            "month": "戊寅",
+            "day": "癸卯",
+            "hour": "癸亥"
+          }
+        },
+        {
+          "time": "23:30",
+          "natal": {
+            "year": "乙巳",
+            "month": "戊寅",
+            "day": "甲辰",
+            "hour": "甲子"
+          }
+        }
+      ],
+      "errors": [],
+      "elapsed_seconds": 14.3635,
+      "method": "Actual _get_saju_base per minute. Default solar/Korean -30 minutes/standard night rollover/DST policy; shared read-only connection; no external oracle."
+    },
+    {
+      "date": "2026-02-04",
+      "minutes_evaluated": 1440,
+      "unknown_output": {
+        "year": "丙午",
+        "month": "庚寅",
+        "day": "己酉",
+        "hour": ""
+      },
+      "candidate_minute_counts": {
+        "year": {
+          "乙巳": 278,
+          "丙午": 1162
+        },
+        "month": {
+          "己丑": 278,
+          "庚寅": 1162
+        },
+        "day": {
+          "己酉": 1410,
+          "庚戌": 30
+        },
+        "hour": {
+          "甲子": 90,
+          "乙丑": 120,
+          "丙寅": 120,
+          "丁卯": 120,
+          "戊辰": 120,
+          "己巳": 120,
+          "庚午": 120,
+          "辛未": 120,
+          "壬申": 120,
+          "癸酉": 120,
+          "甲戌": 120,
+          "乙亥": 120,
+          "丙子": 30
+        }
+      },
+      "field_status": {
+        "year": "ambiguous_under_fixed_policy",
+        "month": "ambiguous_under_fixed_policy",
+        "day": "ambiguous_under_fixed_policy",
+        "hour": "ambiguous_under_fixed_policy"
+      },
+      "transitions": [
+        {
+          "time": "00:00",
+          "natal": {
+            "year": "乙巳",
+            "month": "己丑",
+            "day": "己酉",
+            "hour": "甲子"
+          }
+        },
+        {
+          "time": "01:30",
+          "natal": {
+            "year": "乙巳",
+            "month": "己丑",
+            "day": "己酉",
+            "hour": "乙丑"
+          }
+        },
+        {
+          "time": "03:30",
+          "natal": {
+            "year": "乙巳",
+            "month": "己丑",
+            "day": "己酉",
+            "hour": "丙寅"
+          }
+        },
+        {
+          "time": "04:38",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "丙寅"
+          }
+        },
+        {
+          "time": "05:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "丁卯"
+          }
+        },
+        {
+          "time": "07:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "戊辰"
+          }
+        },
+        {
+          "time": "09:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "己巳"
+          }
+        },
+        {
+          "time": "11:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "庚午"
+          }
+        },
+        {
+          "time": "13:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "辛未"
+          }
+        },
+        {
+          "time": "15:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "壬申"
+          }
+        },
+        {
+          "time": "17:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "癸酉"
+          }
+        },
+        {
+          "time": "19:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "甲戌"
+          }
+        },
+        {
+          "time": "21:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "己酉",
+            "hour": "乙亥"
+          }
+        },
+        {
+          "time": "23:30",
+          "natal": {
+            "year": "丙午",
+            "month": "庚寅",
+            "day": "庚戌",
+            "hour": "丙子"
+          }
+        }
+      ],
+      "errors": [],
+      "elapsed_seconds": 10.6601,
+      "method": "Actual _get_saju_base per minute. Default solar/Korean -30 minutes/standard night rollover/DST policy; shared read-only connection; no external oracle."
+    },
+    {
+      "date": "1990-05-15",
+      "minutes_evaluated": 1440,
+      "unknown_output": {
+        "year": "庚午",
+        "month": "辛巳",
+        "day": "庚辰",
+        "hour": ""
+      },
+      "candidate_minute_counts": {
+        "year": {
+          "庚午": 1440
+        },
+        "month": {
+          "辛巳": 1440
+        },
+        "day": {
+          "庚辰": 1410,
+          "辛巳": 30
+        },
+        "hour": {
+          "丙子": 90,
+          "丁丑": 120,
+          "戊寅": 120,
+          "己卯": 120,
+          "庚辰": 120,
+          "辛巳": 120,
+          "壬午": 120,
+          "癸未": 120,
+          "甲申": 120,
+          "乙酉": 120,
+          "丙戌": 120,
+          "丁亥": 120,
+          "戊子": 30
+        }
+      },
+      "field_status": {
+        "year": "known_under_fixed_policy",
+        "month": "known_under_fixed_policy",
+        "day": "ambiguous_under_fixed_policy",
+        "hour": "ambiguous_under_fixed_policy"
+      },
+      "transitions": [
+        {
+          "time": "00:00",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "丙子"
+          }
+        },
+        {
+          "time": "01:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "丁丑"
+          }
+        },
+        {
+          "time": "03:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "戊寅"
+          }
+        },
+        {
+          "time": "05:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "己卯"
+          }
+        },
+        {
+          "time": "07:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "庚辰"
+          }
+        },
+        {
+          "time": "09:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "辛巳"
+          }
+        },
+        {
+          "time": "11:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "壬午"
+          }
+        },
+        {
+          "time": "13:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "癸未"
+          }
+        },
+        {
+          "time": "15:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "甲申"
+          }
+        },
+        {
+          "time": "17:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "乙酉"
+          }
+        },
+        {
+          "time": "19:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "丙戌"
+          }
+        },
+        {
+          "time": "21:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "庚辰",
+            "hour": "丁亥"
+          }
+        },
+        {
+          "time": "23:30",
+          "natal": {
+            "year": "庚午",
+            "month": "辛巳",
+            "day": "辛巳",
+            "hour": "戊子"
+          }
+        }
+      ],
+      "errors": [],
+      "elapsed_seconds": 10.4751,
+      "method": "Actual _get_saju_base per minute. Default solar/Korean -30 minutes/standard night rollover/DST policy; shared read-only connection; no external oracle."
+    },
+    {
+      "date": "2000-02-29",
+      "minutes_evaluated": 1440,
+      "unknown_output": {
+        "year": "庚辰",
+        "month": "戊寅",
+        "day": "丁巳",
+        "hour": ""
+      },
+      "candidate_minute_counts": {
+        "year": {
+          "庚辰": 1440
+        },
+        "month": {
+          "戊寅": 1440
+        },
+        "day": {
+          "丁巳": 1410,
+          "戊午": 30
+        },
+        "hour": {
+          "庚子": 90,
+          "辛丑": 120,
+          "壬寅": 120,
+          "癸卯": 120,
+          "甲辰": 120,
+          "乙巳": 120,
+          "丙午": 120,
+          "丁未": 120,
+          "戊申": 120,
+          "己酉": 120,
+          "庚戌": 120,
+          "辛亥": 120,
+          "壬子": 30
+        }
+      },
+      "field_status": {
+        "year": "known_under_fixed_policy",
+        "month": "known_under_fixed_policy",
+        "day": "ambiguous_under_fixed_policy",
+        "hour": "ambiguous_under_fixed_policy"
+      },
+      "transitions": [
+        {
+          "time": "00:00",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "庚子"
+          }
+        },
+        {
+          "time": "01:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "辛丑"
+          }
+        },
+        {
+          "time": "03:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "壬寅"
+          }
+        },
+        {
+          "time": "05:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "癸卯"
+          }
+        },
+        {
+          "time": "07:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "甲辰"
+          }
+        },
+        {
+          "time": "09:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "乙巳"
+          }
+        },
+        {
+          "time": "11:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "丙午"
+          }
+        },
+        {
+          "time": "13:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "丁未"
+          }
+        },
+        {
+          "time": "15:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "戊申"
+          }
+        },
+        {
+          "time": "17:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "己酉"
+          }
+        },
+        {
+          "time": "19:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "庚戌"
+          }
+        },
+        {
+          "time": "21:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "丁巳",
+            "hour": "辛亥"
+          }
+        },
+        {
+          "time": "23:30",
+          "natal": {
+            "year": "庚辰",
+            "month": "戊寅",
+            "day": "戊午",
+            "hour": "壬子"
+          }
+        }
+      ],
+      "errors": [],
+      "elapsed_seconds": 10.5322,
+      "method": "Actual _get_saju_base per minute. Default solar/Korean -30 minutes/standard night rollover/DST policy; shared read-only connection; no external oracle."
+    }
+  ]
+}

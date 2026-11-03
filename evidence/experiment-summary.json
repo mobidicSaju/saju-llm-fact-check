@@ -1,0 +1,90 @@
+{
+  "n_cases": 22,
+  "n_repeats": 2,
+  "n_calls": 132,
+  "n_families": 7,
+  "arms": {
+    "A": {
+      "n": 44,
+      "parse_pass": 33,
+      "schema_pass": 33,
+      "exact": 0,
+      "fields_correct": 59,
+      "fields_total": 176,
+      "uncertain_correct": 6,
+      "uncertain_total": 20,
+      "errors": 0,
+      "truncated": 0,
+      "wall_median_seconds": 3.5488152914995226,
+      "wall_min_seconds": 1.6038262080001005,
+      "wall_max_seconds": 6.691524709000078,
+      "repeat_exact_object_agreement": 7,
+      "repeat_pairs": 22
+    },
+    "B": {
+      "n": 44,
+      "parse_pass": 44,
+      "schema_pass": 44,
+      "exact": 44,
+      "fields_correct": 176,
+      "fields_total": 176,
+      "uncertain_correct": 20,
+      "uncertain_total": 20,
+      "errors": 0,
+      "truncated": 0,
+      "wall_median_seconds": 3.294482812500064,
+      "wall_min_seconds": 1.582474041999376,
+      "wall_max_seconds": 5.464389207998465,
+      "repeat_exact_object_agreement": 22,
+      "repeat_pairs": 22
+    },
+    "C": {
+      "n": 44,
+      "parse_pass": 44,
+      "schema_pass": 44,
+      "exact": 41,
+      "fields_correct": 169,
+      "fields_total": 176,
+      "uncertain_correct": 13,
+      "uncertain_total": 20,
+      "errors": 0,
+      "truncated": 0,
+      "wall_median_seconds": 3.3528789579995646,
+      "wall_min_seconds": 1.6384977079997043,
+      "wall_max_seconds": 5.656045790999997,
+      "repeat_exact_object_agreement": 20,
+      "repeat_pairs": 22
+    },
+    "D": {
+      "n": 44,
+      "delivered": 41,
+      "abstained": 3,
+      "fields_delivered_correct": 164,
+      "fields_total": 176,
+      "extra_llm_calls": 0,
+      "definition": "exact C output delivered unchanged iff schema and every reference field match"
+    }
+  },
+  "paired_response_differences": {
+    "A_B": {
+      "both_correct": 0,
+      "a_only": 0,
+      "b_only": 44,
+      "neither": 0
+    },
+    "B_C": {
+      "both_correct": 41,
+      "a_only": 3,
+      "b_only": 0,
+      "neither": 0
+    }
+  },
+  "interpretation_limit": "Finite purposive input set; references are implementation-relative. Repeats and boundary neighbors are not independent population samples. No p-values or population confidence intervals.",
+  "fault_injection": {
+    "positive": 22,
+    "negative": 154,
+    "total": 176,
+    "passed": 176,
+    "scope": "exact finite-field gate only, not free-text semantics or oracle correctness"
+  }
+}

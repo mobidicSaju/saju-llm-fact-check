@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "KASI_YEARBOOK_2025",
+      "title_ko": "2025 역서",
+      "title_en": "Korean Astronomical Almanac for the Year 2025",
+      "issuing_body": "한국천문연구원",
+      "compilers": [
+        "손동효",
+        "박한얼"
+      ],
+      "publisher_distribution": "에스엠북(SMBook)",
+      "publication_date": "2024-10-25",
+      "printing_date": "2024-10-20",
+      "isbn": "979-11-976090-3-9",
+      "edition_status": "published yearbook; not provisional calendarData",
+      "url": "https://astro.kasi.re.kr/file/astro_almanac_pdf/20250828102520786.pdf",
+      "discovery_page": "https://astro.kasi.re.kr/kor/almanac/pageView/26",
+      "publication_metadata_pdf_page": 232,
+      "data_pdf_page": 8,
+      "data_printed_page": "8",
+      "retrieved_date": "2026-11-03",
+      "sha256": "a3a267050ce614fd3cbeec803326861dea6a1fe5b2b9a038090433eb9bb0c8e3",
+      "bytes": 26615807,
+      "pdf_page_count": 232,
+      "redistribution": "Temporary research inspection copy only; deliver source URL/hash/page and extracted factual fixtures, not the full copyrighted PDF."
+    },
+    {
+      "id": "KASI_YEARBOOK_2026",
+      "title_ko": "2026 역서",
+      "title_en": "Korean Astronomical Almanac for the Year 2026",
+      "issuing_body": "한국천문연구원",
+      "compilers": [
+        "손동효",
+        "박한얼"
+      ],
+      "publisher_distribution": "에스엠북(SMBook)",
+      "publication_date": "2025-09-25",
+      "printing_date": "2025-09-20",
+      "isbn": "979-11-976090-0-8",
+      "edition_status": "published yearbook; not provisional calendarData",
+      "url": "https://astro.kasi.re.kr/file/astro_almanac_pdf/20260325110341610.pdf",
+      "discovery_page": "https://astro.kasi.re.kr/kor/almanac/pageView/26",
+      "publication_metadata_pdf_page": 232,
+      "data_pdf_page": 8,
+      "data_printed_page": "8",
+      "retrieved_date": "2026-11-03",
+      "sha256": "c192b67d54f4a39481dcfd0e76d74ab7131d52630a41ea0a73f25988cc4b958b",
+      "bytes": 24635185,
+      "pdf_page_count": 232,
+      "redistribution": "Temporary research inspection copy only; deliver source URL/hash/page and extracted factual fixtures, not the full copyrighted PDF."
+    }
+  ],
+  "limitations": [
+    "Published solar-term time resolution is one minute; do not infer exact seconds.",
+    "The KASI table provides astronomical/calendar facts, not scientific evidence for fortune-telling prediction.",
+    "Saju year/month/day/hour pillar policies, unknown birth hour handling, yaja-si and true solar time are separate declared implementation policies.",
+    "KASI ephemerides and the target app may share underlying astronomical models; this is external published-source validation, not proven mathematical independence of all computational ancestors.",
+    "Minute-level comparison should report signed/absolute minute deviations and mismatches; exact-minute boundary birth cases need explicit precision handling."
+  ]
+}

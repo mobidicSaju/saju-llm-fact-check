@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "study_date": "2026-11-03",
+  "statement": "All listed research evidence files retain their original bytes, including every unsuccessful response. The original experiment-frozen-hashes.json is unchanged.",
+  "original_evidence": {
+    "calendar-case-observations.json": {
+      "sha256": "2d569a8c38fee3282f051ceacb639fc20cc40704d63be6ac1055f9b35127a1af",
+      "bytes": 1147720,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "calendar-metamorphic-observations.json": {
+      "sha256": "894b0241eed7f1191773b68f8a9dbd7d82e477827f42169b2ace918baae8811e",
+      "bytes": 40435,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "experiment-frozen-hashes.json": {
+      "sha256": "fe2ea7dab2fbe28f0caad9f25435bef396f1152bf499f4379daf019942f4672d",
+      "bytes": 406,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "experiment-protocol.json": {
+      "sha256": "2fafacc505b490c0992e772fdc960105d87646fba460f05924f263d4493d97a3",
+      "bytes": 16966,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "experiment-raw.jsonl": {
+      "sha256": "84383aaf9b83772037664258774c11111b53f4e159c4772e3ece358c09504879",
+      "bytes": 156216,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "experiment-requests.json": {
+      "sha256": "e564a3bfe535ef4c8ccc50a249c1aace44135304e9f02d487ef4c82a52bb4510",
+      "bytes": 334828,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "experiment-scored.json": {
+      "sha256": "5e76a511d55a9924e4a26149f3a05b91f45b72d542992b0689246c262744a308",
+      "bytes": 141281,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "experiment-summary.json": {
+      "sha256": "836e872ecf7f8fe0b5dc9e04872ebd28d6bf699473951057e7147e0faf77447e",
+      "bytes": 2412,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "format-sensitivity.json": {
+      "sha256": "edf3786d51a2eab51a098b103153ad5486bac73e04f85c9005583b90a579021d",
+      "bytes": 695,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "official-ipchun-engine-checks.json": {
+      "sha256": "5ee4ec4b089220f7d3489df7af9de12b4a1d045c0b54c39e33b30e5e4e05391e",
+      "bytes": 43358,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "official-lunar-month-start-checks.json": {
+      "sha256": "ed6f2d27fefaf8cb016fd2fceccdbe55e640aefdf746602a52b36ad4c1e9c27c",
+      "bytes": 28722,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "official-solar-term-comparison.json": {
+      "sha256": "0b7efc5299b0706bb92a70c853de03701cc86c62f8c7c642b8dbd6bd42e5bc44",
+      "bytes": 45266,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "runtime.json": {
+      "sha256": "a99189b5baf6d9be8f829e2a74c176a9deeb83eeb515348292054e5c2e804997",
+      "bytes": 1674,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "synthetic-cases.json": {
+      "sha256": "15c77fac922cc431beb9ea6c01eebcc6bd3864472f250a8829ca5c44408f0df7",
+      "bytes": 8792,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "unknown-time-enumeration.json": {
+      "sha256": "f77b85d47219c13c9d3552ba38ae6755b5a041ce2a691b27fe4b5917aadfb349",
+      "bytes": 16112,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "validator-fault-injection.json": {
+      "sha256": "256e904ff48a19491db4b11d7692971432879c36b75f54fabdfd6efa4f9f0b18",
+      "bytes": 20418,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "warmup.json": {
+      "sha256": "b84c78b16ee13a840629fb0b2b9d91ff1502c8530e21e9ba87c59d1bab254f98",
+      "bytes": 833,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "kasi-oracle/source_manifest.json": {
+      "sha256": "e4040cb0ae5b0cad9dc6cf4e2021ac4ff8110e2f53775b8cbcd75a392a84cef3",
+      "bytes": 3001,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "kasi-oracle/lunar_month_starts_2025_2026.json": {
+      "sha256": "a30d6e4ecbafdc1c81076f39e85359abe2c7c3ec76d3e28a09cfc45236f46409",
+      "bytes": 12738,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    },
+    "kasi-oracle/solar_terms_2025_2026.json": {
+      "sha256": "e42b8ce8564857635177f15223afce26fafe9e2206d87b22cacb8d0b5d626f68",
+      "bytes": 18179,
+      "treatment": "byte-for-byte copy of the dated research evidence"
+    }
+  },
+  "derived_provenance": {
+    "public-source-provenance.json": {
+      "sha256": "2f9fae39087a77b0a301be840334fa0d9709e7d3d7e76b93a5599e0bbdc2c7c5",
+      "bytes": 3854
+    }
+  }
+}

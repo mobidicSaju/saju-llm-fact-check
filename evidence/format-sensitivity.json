@@ -1,0 +1,30 @@
+{
+  "status": "post-hoc descriptive sensitivity, primary protocol unchanged",
+  "transformation": "remove one entire enclosing Markdown JSON code fence only; no value repair",
+  "arms": {
+    "A": {
+      "n": 44,
+      "only_outer_fence_removed": 11,
+      "parse_pass": 44,
+      "exact": 0,
+      "fields_correct": 78,
+      "fields_total": 176
+    },
+    "B": {
+      "n": 44,
+      "only_outer_fence_removed": 0,
+      "parse_pass": 44,
+      "exact": 44,
+      "fields_correct": 176,
+      "fields_total": 176
+    },
+    "C": {
+      "n": 44,
+      "only_outer_fence_removed": 0,
+      "parse_pass": 44,
+      "exact": 41,
+      "fields_correct": 169,
+      "fields_total": 176
+    }
+  }
+}

@@ -1,0 +1,1058 @@
+[
+  {
+    "case_id": "C07",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C07",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C07",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C07",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C07",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C07",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C07",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C07",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C16",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C16",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C16",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C16",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C16",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C16",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C16",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C16",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C01",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C01",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C01",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C01",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C01",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C01",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C01",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C01",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C13",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C13",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C13",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C13",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C13",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C13",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C13",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C13",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C17",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C17",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C17",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C17",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C17",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C17",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C17",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C17",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C08",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C08",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C08",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C08",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C08",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C08",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C08",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C08",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C15",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C15",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C15",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C15",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C15",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C15",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C15",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C15",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C03",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C03",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C03",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C03",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C03",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C03",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C03",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C03",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C10",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C10",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C10",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C10",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C10",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C10",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C10",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C10",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C11",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C11",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C11",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C11",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C11",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C11",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C11",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C11",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C02",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C02",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C02",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C02",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C02",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C02",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C02",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C02",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C21",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C21",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C21",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C21",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C21",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C21",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C21",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C21",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C19",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C19",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C19",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C19",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C19",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C19",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C19",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C19",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C06",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C06",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C06",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C06",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C06",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C06",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C06",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C06",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C14",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C14",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C14",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C14",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C14",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C14",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C14",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C14",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C09",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C09",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C09",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C09",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C09",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C09",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C09",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C09",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C18",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C18",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C18",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C18",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C18",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C18",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C18",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C18",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C20",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C20",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C20",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C20",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C20",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C20",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C20",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C20",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C12",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C12",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C12",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C12",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C12",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C12",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C12",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C12",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C04",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C04",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C04",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C04",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C04",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C04",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C04",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C04",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C22",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C22",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C22",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C22",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C22",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C22",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C22",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C22",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C24",
+    "mutation": "none",
+    "expected": true,
+    "actual": true
+  },
+  {
+    "case_id": "C24",
+    "mutation": "year_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C24",
+    "mutation": "month_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C24",
+    "mutation": "day_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C24",
+    "mutation": "hour_contradiction_or_false_certainty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C24",
+    "mutation": "empty",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C24",
+    "mutation": "missing_hour",
+    "expected": false,
+    "actual": false
+  },
+  {
+    "case_id": "C24",
+    "mutation": "extra_key",
+    "expected": false,
+    "actual": false
+  }
+]

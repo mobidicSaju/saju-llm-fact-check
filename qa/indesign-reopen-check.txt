@@ -1,0 +1,14 @@
+Font: YoonMyungjoPro730
+Font: YoonMyungjoPro760
+Font: YoonGothicPro740
+Font: YoonGothicPro760
+Source: paper/PAPER_PUBLIC_A4.indd
+InDesign version: 21.6.0.57
+Reopened from disk: true
+Pages: 16; A4: true; Stories: 794; Links: 0; Overset: 0
+Top layer: editable text; filled vectors below
+Preflight wait return: false
+Preflight inventory characters: 205694
+Native preflight errors: 0
+Saved document modified by verification: false
+Status: passed

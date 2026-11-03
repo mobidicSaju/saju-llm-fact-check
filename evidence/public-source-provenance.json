@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "study_date": "2026-11-03",
+  "repository": "https://github.com/mobidicSaju/saju-llm-fact-check",
+  "scope": "Identification of the audited CLI and calendar snapshot. The implementation and database are not distributed here. Logical labels below identify components; they are not paths to runnable public files.",
+  "execution_chain": [
+    "ollamasaju (zsh launcher)",
+    "saju_local.py (Python CLI)",
+    "manseryeok.py (calendar engine) and Manseryeok.db (SQLite calendar data)",
+    "local Ollama-compatible /api/chat endpoint"
+  ],
+  "source_sha256": {
+    "cli/saju_local.py": "84a0e9370067a4e6ed738d6ea404eb48b89d934e95000cdc83cabef01780580b",
+    "calendar/manseryeok.py": "4013c54ca7d864fc7ab558b11cc3bde439c0738f74350b83636380958d576b48",
+    "calendar/manseryeok_utils.py": "68ba10c791149937549482fb1c4f803032875f3577cc95305ae1029cf52925f3",
+    "calendar/__init__.py": "23cb4dd61006e9b93ed7e3a1ccabf1562c99c919f678cda02c16fc8692d6c0fd",
+    "calendar/myeongri_instructions.py": "c05b60943454a2a4cba6f59313261eae631e120a734403f966eec58717c68e78",
+    "calendar/Manseryeok.db": "52a4a62911a0c0affca2e1f21a0b2866d62e1603eb69d35c383061aaa02a2be3"
+  },
+  "launcher_sha256": "0bc6b3f5dc1d0a8eef20db9e3f932f53fc9f665d391a325bf68715fbec4565e9",
+  "python_version": "3.14.4",
+  "fixed_reference_local_time": "2026-11-03T12:00:00",
+  "timezone": "Asia/Seoul",
+  "default_policies": {
+    "use_korean_time": true,
+    "use_yaja_si": false,
+    "use_true_solar_time": false,
+    "apply_dst_correction": true,
+    "apply_timezone_history": true
+  },
+  "originals_unchanged_during_audit": true,
+  "source_comparison": [
+    {
+      "filename": "manseryeok.py",
+      "saju2you_sha256": "4013c54ca7d864fc7ab558b11cc3bde439c0738f74350b83636380958d576b48",
+      "mobidic_sha256": "4013c54ca7d864fc7ab558b11cc3bde439c0738f74350b83636380958d576b48",
+      "identical": true
+    },
+    {
+      "filename": "manseryeok_utils.py",
+      "saju2you_sha256": "68ba10c791149937549482fb1c4f803032875f3577cc95305ae1029cf52925f3",
+      "mobidic_sha256": "68ba10c791149937549482fb1c4f803032875f3577cc95305ae1029cf52925f3",
+      "identical": true
+    },
+    {
+      "filename": "Manseryeok.db",
+      "saju2you_sha256": "52a4a62911a0c0affca2e1f21a0b2866d62e1603eb69d35c383061aaa02a2be3",
+      "mobidic_sha256": "52a4a62911a0c0affca2e1f21a0b2866d62e1603eb69d35c383061aaa02a2be3",
+      "identical": true
+    }
+  ],
+  "parser_observations": [
+    {
+      "input": "1990 0515 0000",
+      "parsed": [
+        1990,
+        5,
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "input": "1990 0515",
+      "parsed": [
+        1990,
+        5,
+        15,
+        null,
+        null
+      ]
+    },
+    {
+      "input": "199005151400",
+      "parsed": [
+        1990,
+        5,
+        15,
+        14,
+        0
+      ]
+    },
+    {
+      "input": "1990 5 15 24 00",
+      "parsed": null
+    },
+    {
+      "input": "1990 2 30",
+      "parsed": [
+        1990,
+        2,
+        30,
+        null,
+        null
+      ]
+    }
+  ],
+  "provenance_edits": [
+    "Host-specific executable paths and private checkout locations removed.",
+    "Logical component labels replace checkout paths; source file hashes and measured observations are retained.",
+    "This public document is a derived provenance record, not a byte-identical copy of either internal audit document."
+  ],
+  "original_audit_document_sha256": {
+    "terminal-source-audit.json": "f5666b129efb72073401c013a8838772a150d08dc235d2891ecaf66d7c267c6f",
+    "calendar-audit-manifest.json": "b22e582e95bf59021311a7db59159caabf0a7054082af2a4a624e75589a49cc3"
+  },
+  "reproduction_boundary": "Included scripts reanalyze preserved observations and all 132 model responses without a model, database, network connection, or original checkout. They do not rerun the engine or model."
+}

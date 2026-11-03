@@ -1,0 +1,1539 @@
+{
+  "scope": "All48 terms from the2025/2026 KASI published yearbooks, compared at published minute resolution with the actual engine SQLite table.",
+  "summary": {
+    "official_records": 48,
+    "paired_records": 48,
+    "exact_minute_matches": 0,
+    "minute_mismatches": 48,
+    "mean_signed_minutes": 3.5625,
+    "median_signed_minutes": 4.0,
+    "min_signed_minutes": -27,
+    "max_signed_minutes": 35,
+    "mean_absolute_minutes": 17.895833333333332,
+    "median_absolute_minutes": 19.0,
+    "max_absolute_minutes": 35,
+    "calendar_date_mismatches": 2
+  },
+  "results": [
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-01-05",
+        "time": "11:33",
+        "name": "소한",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 285,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 1,
+          "cd_sd": 5,
+          "cd_kterms": "소한",
+          "cd_terms_time": 202501051113
+        }
+      ],
+      "database_time_kst": "2025-01-05T11:13",
+      "signed_database_minus_official_minutes": -20,
+      "absolute_minutes": 20,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-01-20",
+        "time": "05:00",
+        "name": "대한",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 300,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 1,
+          "cd_sd": 20,
+          "cd_kterms": "대한",
+          "cd_terms_time": 202501200433
+        }
+      ],
+      "database_time_kst": "2025-01-20T04:33",
+      "signed_database_minus_official_minutes": -27,
+      "absolute_minutes": 27,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-02-03",
+        "time": "23:10",
+        "name": "입춘",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 315,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 2,
+          "cd_sd": 3,
+          "cd_kterms": "입춘",
+          "cd_terms_time": 202502032249
+        }
+      ],
+      "database_time_kst": "2025-02-03T22:49",
+      "signed_database_minus_official_minutes": -21,
+      "absolute_minutes": 21,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-02-18",
+        "time": "19:07",
+        "name": "우수",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 330,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 2,
+          "cd_sd": 18,
+          "cd_kterms": "우수",
+          "cd_terms_time": 202502181844
+        }
+      ],
+      "database_time_kst": "2025-02-18T18:44",
+      "signed_database_minus_official_minutes": -23,
+      "absolute_minutes": 23,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-03-05",
+        "time": "17:07",
+        "name": "경칩",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 345,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 3,
+          "cd_sd": 5,
+          "cd_kterms": "경칩",
+          "cd_terms_time": 202503051652
+        }
+      ],
+      "database_time_kst": "2025-03-05T16:52",
+      "signed_database_minus_official_minutes": -15,
+      "absolute_minutes": 15,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-03-20",
+        "time": "18:01",
+        "name": "춘분",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 0,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 3,
+          "cd_sd": 20,
+          "cd_kterms": "춘분",
+          "cd_terms_time": 202503201747
+        }
+      ],
+      "database_time_kst": "2025-03-20T17:47",
+      "signed_database_minus_official_minutes": -14,
+      "absolute_minutes": 14,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-04-04",
+        "time": "21:49",
+        "name": "청명",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 15,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 4,
+          "cd_sd": 4,
+          "cd_kterms": "청명",
+          "cd_terms_time": 202504042144
+        }
+      ],
+      "database_time_kst": "2025-04-04T21:44",
+      "signed_database_minus_official_minutes": -5,
+      "absolute_minutes": 5,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-04-20",
+        "time": "04:56",
+        "name": "곡우",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 30,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 4,
+          "cd_sd": 20,
+          "cd_kterms": "곡우",
+          "cd_terms_time": 202504200455
+        }
+      ],
+      "database_time_kst": "2025-04-20T04:55",
+      "signed_database_minus_official_minutes": -1,
+      "absolute_minutes": 1,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-05-05",
+        "time": "14:57",
+        "name": "입하",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 45,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 5,
+          "cd_sd": 5,
+          "cd_kterms": "입하",
+          "cd_terms_time": 202505051507
+        }
+      ],
+      "database_time_kst": "2025-05-05T15:07",
+      "signed_database_minus_official_minutes": 10,
+      "absolute_minutes": 10,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-05-21",
+        "time": "03:55",
+        "name": "소만",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 60,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 5,
+          "cd_sd": 21,
+          "cd_kterms": "소만",
+          "cd_terms_time": 202505210407
+        }
+      ],
+      "database_time_kst": "2025-05-21T04:07",
+      "signed_database_minus_official_minutes": 12,
+      "absolute_minutes": 12,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-06-05",
+        "time": "18:57",
+        "name": "망종",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 75,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 6,
+          "cd_sd": 5,
+          "cd_kterms": "망종",
+          "cd_terms_time": 202506051920
+        }
+      ],
+      "database_time_kst": "2025-06-05T19:20",
+      "signed_database_minus_official_minutes": 23,
+      "absolute_minutes": 23,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-06-21",
+        "time": "11:42",
+        "name": "하지",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 90,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 6,
+          "cd_sd": 21,
+          "cd_kterms": "하지",
+          "cd_terms_time": 202506211206
+        }
+      ],
+      "database_time_kst": "2025-06-21T12:06",
+      "signed_database_minus_official_minutes": 24,
+      "absolute_minutes": 24,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-07-07",
+        "time": "05:05",
+        "name": "소서",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 105,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 7,
+          "cd_sd": 7,
+          "cd_kterms": "소서",
+          "cd_terms_time": 202507070537
+        }
+      ],
+      "database_time_kst": "2025-07-07T05:37",
+      "signed_database_minus_official_minutes": 32,
+      "absolute_minutes": 32,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-07-22",
+        "time": "22:29",
+        "name": "대서",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 120,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 7,
+          "cd_sd": 22,
+          "cd_kterms": "대서",
+          "cd_terms_time": 202507222259
+        }
+      ],
+      "database_time_kst": "2025-07-22T22:59",
+      "signed_database_minus_official_minutes": 30,
+      "absolute_minutes": 30,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-08-07",
+        "time": "14:52",
+        "name": "입추",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 135,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 8,
+          "cd_sd": 7,
+          "cd_kterms": "입추",
+          "cd_terms_time": 202508071524
+        }
+      ],
+      "database_time_kst": "2025-08-07T15:24",
+      "signed_database_minus_official_minutes": 32,
+      "absolute_minutes": 32,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-08-23",
+        "time": "05:34",
+        "name": "처서",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 150,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 8,
+          "cd_sd": 23,
+          "cd_kterms": "처서",
+          "cd_terms_time": 202508230601
+        }
+      ],
+      "database_time_kst": "2025-08-23T06:01",
+      "signed_database_minus_official_minutes": 27,
+      "absolute_minutes": 27,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-09-07",
+        "time": "17:52",
+        "name": "백로",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 165,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 9,
+          "cd_sd": 7,
+          "cd_kterms": "백로",
+          "cd_terms_time": 202509071816
+        }
+      ],
+      "database_time_kst": "2025-09-07T18:16",
+      "signed_database_minus_official_minutes": 24,
+      "absolute_minutes": 24,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-09-23",
+        "time": "03:19",
+        "name": "추분",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 180,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 9,
+          "cd_sd": 23,
+          "cd_kterms": "추분",
+          "cd_terms_time": 202509230337
+        }
+      ],
+      "database_time_kst": "2025-09-23T03:37",
+      "signed_database_minus_official_minutes": 18,
+      "absolute_minutes": 18,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-10-08",
+        "time": "09:41",
+        "name": "한로",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 195,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 10,
+          "cd_sd": 8,
+          "cd_kterms": "한로",
+          "cd_terms_time": 202510080952
+        }
+      ],
+      "database_time_kst": "2025-10-08T09:52",
+      "signed_database_minus_official_minutes": 11,
+      "absolute_minutes": 11,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-10-23",
+        "time": "12:51",
+        "name": "상강",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 210,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 10,
+          "cd_sd": 23,
+          "cd_kterms": "상강",
+          "cd_terms_time": 202510231254
+        }
+      ],
+      "database_time_kst": "2025-10-23T12:54",
+      "signed_database_minus_official_minutes": 3,
+      "absolute_minutes": 3,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-11-07",
+        "time": "13:04",
+        "name": "입동",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 225,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 11,
+          "cd_sd": 7,
+          "cd_kterms": "입동",
+          "cd_terms_time": 202511071259
+        }
+      ],
+      "database_time_kst": "2025-11-07T12:59",
+      "signed_database_minus_official_minutes": -5,
+      "absolute_minutes": 5,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-11-22",
+        "time": "10:36",
+        "name": "소설",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 240,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 11,
+          "cd_sd": 22,
+          "cd_kterms": "소설",
+          "cd_terms_time": 202511221025
+        }
+      ],
+      "database_time_kst": "2025-11-22T10:25",
+      "signed_database_minus_official_minutes": -11,
+      "absolute_minutes": 11,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-12-07",
+        "time": "06:05",
+        "name": "대설",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 255,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 12,
+          "cd_sd": 7,
+          "cd_kterms": "대설",
+          "cd_terms_time": 202512070549
+        }
+      ],
+      "database_time_kst": "2025-12-07T05:49",
+      "signed_database_minus_official_minutes": -16,
+      "absolute_minutes": 16,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2025,
+        "date": "2025-12-22",
+        "time": "00:03",
+        "name": "동지",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 270,
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2025,
+          "cd_sm": 12,
+          "cd_sd": 21,
+          "cd_kterms": "동지",
+          "cd_terms_time": 202512212344
+        }
+      ],
+      "database_time_kst": "2025-12-21T23:44",
+      "signed_database_minus_official_minutes": -19,
+      "absolute_minutes": 19,
+      "minute_equal": false,
+      "date_equal": false
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-01-05",
+        "time": "17:23",
+        "name": "소한",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 285,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 1,
+          "cd_sd": 5,
+          "cd_kterms": "소한",
+          "cd_terms_time": 202601051702
+        }
+      ],
+      "database_time_kst": "2026-01-05T17:02",
+      "signed_database_minus_official_minutes": -21,
+      "absolute_minutes": 21,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-01-20",
+        "time": "10:45",
+        "name": "대한",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 300,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 1,
+          "cd_sd": 20,
+          "cd_kterms": "대한",
+          "cd_terms_time": 202601201022
+        }
+      ],
+      "database_time_kst": "2026-01-20T10:22",
+      "signed_database_minus_official_minutes": -23,
+      "absolute_minutes": 23,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-02-04",
+        "time": "05:02",
+        "name": "입춘",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 315,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 2,
+          "cd_sd": 4,
+          "cd_kterms": "입춘",
+          "cd_terms_time": 202602040438
+        }
+      ],
+      "database_time_kst": "2026-02-04T04:38",
+      "signed_database_minus_official_minutes": -24,
+      "absolute_minutes": 24,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-02-19",
+        "time": "00:52",
+        "name": "우수",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 330,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 2,
+          "cd_sd": 19,
+          "cd_kterms": "우수",
+          "cd_terms_time": 202602190033
+        }
+      ],
+      "database_time_kst": "2026-02-19T00:33",
+      "signed_database_minus_official_minutes": -19,
+      "absolute_minutes": 19,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-03-05",
+        "time": "22:59",
+        "name": "경칩",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 345,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 3,
+          "cd_sd": 5,
+          "cd_kterms": "경칩",
+          "cd_terms_time": 202603052241
+        }
+      ],
+      "database_time_kst": "2026-03-05T22:41",
+      "signed_database_minus_official_minutes": -18,
+      "absolute_minutes": 18,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-03-20",
+        "time": "23:46",
+        "name": "춘분",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 0,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 3,
+          "cd_sd": 20,
+          "cd_kterms": "춘분",
+          "cd_terms_time": 202603202336
+        }
+      ],
+      "database_time_kst": "2026-03-20T23:36",
+      "signed_database_minus_official_minutes": -10,
+      "absolute_minutes": 10,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-04-05",
+        "time": "03:40",
+        "name": "청명",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 15,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 4,
+          "cd_sd": 5,
+          "cd_kterms": "청명",
+          "cd_terms_time": 202604050333
+        }
+      ],
+      "database_time_kst": "2026-04-05T03:33",
+      "signed_database_minus_official_minutes": -7,
+      "absolute_minutes": 7,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-04-20",
+        "time": "10:39",
+        "name": "곡우",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 30,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 4,
+          "cd_sd": 20,
+          "cd_kterms": "곡우",
+          "cd_terms_time": 202604201044
+        }
+      ],
+      "database_time_kst": "2026-04-20T10:44",
+      "signed_database_minus_official_minutes": 5,
+      "absolute_minutes": 5,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-05-05",
+        "time": "20:49",
+        "name": "입하",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 45,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 5,
+          "cd_sd": 5,
+          "cd_kterms": "입하",
+          "cd_terms_time": 202605052056
+        }
+      ],
+      "database_time_kst": "2026-05-05T20:56",
+      "signed_database_minus_official_minutes": 7,
+      "absolute_minutes": 7,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-05-21",
+        "time": "09:37",
+        "name": "소만",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 60,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 5,
+          "cd_sd": 21,
+          "cd_kterms": "소만",
+          "cd_terms_time": 202605210956
+        }
+      ],
+      "database_time_kst": "2026-05-21T09:56",
+      "signed_database_minus_official_minutes": 19,
+      "absolute_minutes": 19,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-06-06",
+        "time": "00:48",
+        "name": "망종",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 75,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 6,
+          "cd_sd": 6,
+          "cd_kterms": "망종",
+          "cd_terms_time": 202606060109
+        }
+      ],
+      "database_time_kst": "2026-06-06T01:09",
+      "signed_database_minus_official_minutes": 21,
+      "absolute_minutes": 21,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-06-21",
+        "time": "17:25",
+        "name": "하지",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 90,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 6,
+          "cd_sd": 21,
+          "cd_kterms": "하지",
+          "cd_terms_time": 202606211755
+        }
+      ],
+      "database_time_kst": "2026-06-21T17:55",
+      "signed_database_minus_official_minutes": 30,
+      "absolute_minutes": 30,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-07-07",
+        "time": "10:57",
+        "name": "소서",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 105,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 7,
+          "cd_sd": 7,
+          "cd_kterms": "소서",
+          "cd_terms_time": 202607071126
+        }
+      ],
+      "database_time_kst": "2026-07-07T11:26",
+      "signed_database_minus_official_minutes": 29,
+      "absolute_minutes": 29,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-07-23",
+        "time": "04:13",
+        "name": "대서",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 120,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 7,
+          "cd_sd": 23,
+          "cd_kterms": "대서",
+          "cd_terms_time": 202607230448
+        }
+      ],
+      "database_time_kst": "2026-07-23T04:48",
+      "signed_database_minus_official_minutes": 35,
+      "absolute_minutes": 35,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-08-07",
+        "time": "20:43",
+        "name": "입추",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 135,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 8,
+          "cd_sd": 7,
+          "cd_kterms": "입추",
+          "cd_terms_time": 202608072113
+        }
+      ],
+      "database_time_kst": "2026-08-07T21:13",
+      "signed_database_minus_official_minutes": 30,
+      "absolute_minutes": 30,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-08-23",
+        "time": "11:19",
+        "name": "처서",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 150,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 8,
+          "cd_sd": 23,
+          "cd_kterms": "처서",
+          "cd_terms_time": 202608231150
+        }
+      ],
+      "database_time_kst": "2026-08-23T11:50",
+      "signed_database_minus_official_minutes": 31,
+      "absolute_minutes": 31,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-09-07",
+        "time": "23:41",
+        "name": "백로",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 165,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 9,
+          "cd_sd": 8,
+          "cd_kterms": "백로",
+          "cd_terms_time": 202609080005
+        }
+      ],
+      "database_time_kst": "2026-09-08T00:05",
+      "signed_database_minus_official_minutes": 24,
+      "absolute_minutes": 24,
+      "minute_equal": false,
+      "date_equal": false
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-09-23",
+        "time": "09:05",
+        "name": "추분",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 180,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 9,
+          "cd_sd": 23,
+          "cd_kterms": "추분",
+          "cd_terms_time": 202609230926
+        }
+      ],
+      "database_time_kst": "2026-09-23T09:26",
+      "signed_database_minus_official_minutes": 21,
+      "absolute_minutes": 21,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-10-08",
+        "time": "15:29",
+        "name": "한로",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 195,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 10,
+          "cd_sd": 8,
+          "cd_kterms": "한로",
+          "cd_terms_time": 202610081541
+        }
+      ],
+      "database_time_kst": "2026-10-08T15:41",
+      "signed_database_minus_official_minutes": 12,
+      "absolute_minutes": 12,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-10-23",
+        "time": "18:38",
+        "name": "상강",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 210,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 10,
+          "cd_sd": 23,
+          "cd_kterms": "상강",
+          "cd_terms_time": 202610231843
+        }
+      ],
+      "database_time_kst": "2026-10-23T18:43",
+      "signed_database_minus_official_minutes": 5,
+      "absolute_minutes": 5,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-11-07",
+        "time": "18:52",
+        "name": "입동",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 225,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 11,
+          "cd_sd": 7,
+          "cd_kterms": "입동",
+          "cd_terms_time": 202611071848
+        }
+      ],
+      "database_time_kst": "2026-11-07T18:48",
+      "signed_database_minus_official_minutes": -4,
+      "absolute_minutes": 4,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-11-22",
+        "time": "16:23",
+        "name": "소설",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 240,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 11,
+          "cd_sd": 22,
+          "cd_kterms": "소설",
+          "cd_terms_time": 202611221614
+        }
+      ],
+      "database_time_kst": "2026-11-22T16:14",
+      "signed_database_minus_official_minutes": -9,
+      "absolute_minutes": 9,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-12-07",
+        "time": "11:53",
+        "name": "대설",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 255,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 12,
+          "cd_sd": 7,
+          "cd_kterms": "대설",
+          "cd_terms_time": 202612071138
+        }
+      ],
+      "database_time_kst": "2026-12-07T11:38",
+      "signed_database_minus_official_minutes": -15,
+      "absolute_minutes": 15,
+      "minute_equal": false,
+      "date_equal": true
+    },
+    {
+      "official": {
+        "year": 2026,
+        "date": "2026-12-22",
+        "time": "05:50",
+        "name": "동지",
+        "timezone": "Asia/Seoul",
+        "utc_offset": "+09:00",
+        "precision": "minute",
+        "solar_longitude_deg": 270,
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified"
+      },
+      "database_rows": [
+        {
+          "cd_sy": 2026,
+          "cd_sm": 12,
+          "cd_sd": 22,
+          "cd_kterms": "동지",
+          "cd_terms_time": 202612220533
+        }
+      ],
+      "database_time_kst": "2026-12-22T05:33",
+      "signed_database_minus_official_minutes": -17,
+      "absolute_minutes": 17,
+      "minute_equal": false,
+      "date_equal": true
+    }
+  ],
+  "provenance": {
+    "database_sha256": "52a4a62911a0c0affca2e1f21a0b2866d62e1603eb69d35c383061aaa02a2be3",
+    "source_sha256": "84a0e9370067a4e6ed738d6ea404eb48b89d934e95000cdc83cabef01780580b",
+    "sources": {
+      "schema_version": 1,
+      "sources": [
+        {
+          "id": "KASI_YEARBOOK_2025",
+          "title_ko": "2025 역서",
+          "title_en": "Korean Astronomical Almanac for the Year 2025",
+          "issuing_body": "한국천문연구원",
+          "compilers": [
+            "손동효",
+            "박한얼"
+          ],
+          "publisher_distribution": "에스엠북(SMBook)",
+          "publication_date": "2024-10-25",
+          "printing_date": "2024-10-20",
+          "isbn": "979-11-976090-3-9",
+          "edition_status": "published yearbook; not provisional calendarData",
+          "url": "https://astro.kasi.re.kr/file/astro_almanac_pdf/20250828102520786.pdf",
+          "discovery_page": "https://astro.kasi.re.kr/kor/almanac/pageView/26",
+          "publication_metadata_pdf_page": 232,
+          "data_pdf_page": 8,
+          "data_printed_page": "8",
+          "retrieved_date": "2026-11-03",
+          "sha256": "a3a267050ce614fd3cbeec803326861dea6a1fe5b2b9a038090433eb9bb0c8e3",
+          "bytes": 26615807,
+          "pdf_page_count": 232,
+          "redistribution": "Temporary research inspection copy only; deliver source URL/hash/page and extracted factual fixtures, not the full copyrighted PDF."
+        },
+        {
+          "id": "KASI_YEARBOOK_2026",
+          "title_ko": "2026 역서",
+          "title_en": "Korean Astronomical Almanac for the Year 2026",
+          "issuing_body": "한국천문연구원",
+          "compilers": [
+            "손동효",
+            "박한얼"
+          ],
+          "publisher_distribution": "에스엠북(SMBook)",
+          "publication_date": "2025-09-25",
+          "printing_date": "2025-09-20",
+          "isbn": "979-11-976090-0-8",
+          "edition_status": "published yearbook; not provisional calendarData",
+          "url": "https://astro.kasi.re.kr/file/astro_almanac_pdf/20260325110341610.pdf",
+          "discovery_page": "https://astro.kasi.re.kr/kor/almanac/pageView/26",
+          "publication_metadata_pdf_page": 232,
+          "data_pdf_page": 8,
+          "data_printed_page": "8",
+          "retrieved_date": "2026-11-03",
+          "sha256": "c192b67d54f4a39481dcfd0e76d74ab7131d52630a41ea0a73f25988cc4b958b",
+          "bytes": 24635185,
+          "pdf_page_count": 232,
+          "redistribution": "Temporary research inspection copy only; deliver source URL/hash/page and extracted factual fixtures, not the full copyrighted PDF."
+        }
+      ],
+      "limitations": [
+        "Published solar-term time resolution is one minute; do not infer exact seconds.",
+        "The KASI table provides astronomical/calendar facts, not scientific evidence for fortune-telling prediction.",
+        "Saju year/month/day/hour pillar policies, unknown birth hour handling, yaja-si and true solar time are separate declared implementation policies.",
+        "KASI ephemerides and the target app may share underlying astronomical models; this is external published-source validation, not proven mathematical independence of all computational ancestors.",
+        "Minute-level comparison should report signed/absolute minute deviations and mismatches; exact-minute boundary birth cases need explicit precision handling."
+      ]
+    },
+    "oracle_sha256": {
+      "solar_terms_2025_2026.json": "e42b8ce8564857635177f15223afce26fafe9e2206d87b22cacb8d0b5d626f68",
+      "lunar_month_starts_2025_2026.json": "a30d6e4ecbafdc1c81076f39e85359abe2c7c3ec76d3e28a09cfc45236f46409",
+      "source_manifest.json": "e4040cb0ae5b0cad9dc6cf4e2021ac4ff8110e2f53775b8cbcd75a392a84cef3"
+    },
+    "original_database_unchanged": true,
+    "frozen_case_evidence_unchanged": true,
+    "frozen_case_sha256": {
+      "synthetic-cases.json": "15c77fac922cc431beb9ea6c01eebcc6bd3864472f250a8829ca5c44408f0df7",
+      "calendar-case-observations.json": "2d569a8c38fee3282f051ceacb639fc20cc40704d63be6ac1055f9b35127a1af",
+      "unknown-time-enumeration.json": "f77b85d47219c13c9d3552ba38ae6755b5a041ce2a691b27fe4b5917aadfb349",
+      "calendar-audit-manifest.json": "b22e582e95bf59021311a7db59159caabf0a7054082af2a4a624e75589a49cc3"
+    },
+    "model_inference_performed": false
+  }
+}

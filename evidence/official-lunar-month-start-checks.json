@@ -1,0 +1,891 @@
+{
+  "scope": "Published 25lunar month starts in2025/2026. Bidirectional calendar-date checks and noon day ganji; not comprehensive lunar-calendar verification.",
+  "summary": {
+    "cases": 25,
+    "lunar_to_solar_matches": 25,
+    "solar_to_lunar_matches": 25,
+    "noon_day_ganji_matches": 25
+  },
+  "results": [
+    {
+      "official": {
+        "case_id": "L2025-01",
+        "lunar_year": 2025,
+        "lunar_month": 1,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-01-29",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "무술",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 1,
+        "day": 29
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 1,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "무술",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-02",
+        "lunar_year": 2025,
+        "lunar_month": 2,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-02-28",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "무진",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 2,
+        "day": 28
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 2,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "무진",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-03",
+        "lunar_year": 2025,
+        "lunar_month": 3,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-03-29",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "정유",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 3,
+        "day": 29
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 3,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "정유",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-04",
+        "lunar_year": 2025,
+        "lunar_month": 4,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-04-28",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "정묘",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 4,
+        "day": 28
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 4,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "정묘",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-05",
+        "lunar_year": 2025,
+        "lunar_month": 5,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-05-27",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "병신",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 5,
+        "day": 27
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 5,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "병신",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-06",
+        "lunar_year": 2025,
+        "lunar_month": 6,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-06-25",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "을축",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 6,
+        "day": 25
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 6,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "을축",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-06-LEAP",
+        "lunar_year": 2025,
+        "lunar_month": 6,
+        "lunar_day": 1,
+        "is_leap_month": true,
+        "solar_date": "2025-07-25",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "을미",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 7,
+        "day": 25
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 6,
+        "day": 1,
+        "leap": true
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "을미",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-07",
+        "lunar_year": 2025,
+        "lunar_month": 7,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-08-23",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "갑자",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 8,
+        "day": 23
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 7,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "갑자",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-08",
+        "lunar_year": 2025,
+        "lunar_month": 8,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-09-22",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "갑오",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 9,
+        "day": 22
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 8,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "갑오",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-09",
+        "lunar_year": 2025,
+        "lunar_month": 9,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-10-21",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "계해",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 10,
+        "day": 21
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 9,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "계해",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-10",
+        "lunar_year": 2025,
+        "lunar_month": 10,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-11-20",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "계사",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 11,
+        "day": 20
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 10,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "계사",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-11",
+        "lunar_year": 2025,
+        "lunar_month": 11,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2025-12-20",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "계해",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2025,
+        "month": 12,
+        "day": 20
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 11,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "계해",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2025-12",
+        "lunar_year": 2025,
+        "lunar_month": 12,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-01-19",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "계사",
+        "source_id": "KASI_YEARBOOK_2025",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 1,
+        "day": 19
+      },
+      "actual_lunar": {
+        "year": 2025,
+        "month": 12,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "계사",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-01",
+        "lunar_year": 2026,
+        "lunar_month": 1,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-02-17",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "임술",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 2,
+        "day": 17
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 1,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "임술",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-02",
+        "lunar_year": 2026,
+        "lunar_month": 2,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-03-19",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "임진",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 3,
+        "day": 19
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 2,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "임진",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-03",
+        "lunar_year": 2026,
+        "lunar_month": 3,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-04-17",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "신유",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 4,
+        "day": 17
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 3,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "신유",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-04",
+        "lunar_year": 2026,
+        "lunar_month": 4,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-05-17",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "신묘",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 5,
+        "day": 17
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 4,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "신묘",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-05",
+        "lunar_year": 2026,
+        "lunar_month": 5,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-06-15",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "경신",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 6,
+        "day": 15
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 5,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "경신",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-06",
+        "lunar_year": 2026,
+        "lunar_month": 6,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-07-14",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "기축",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 7,
+        "day": 14
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 6,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "기축",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-07",
+        "lunar_year": 2026,
+        "lunar_month": 7,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-08-13",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "기미",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 8,
+        "day": 13
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "기미",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-08",
+        "lunar_year": 2026,
+        "lunar_month": 8,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-09-11",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "무자",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 9,
+        "day": 11
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 8,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "무자",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-09",
+        "lunar_year": 2026,
+        "lunar_month": 9,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-10-11",
+        "lunar_month_length_days": 29,
+        "calendar_day_ganji_ko": "무오",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 10,
+        "day": 11
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "무오",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-10",
+        "lunar_year": 2026,
+        "lunar_month": 10,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-11-09",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "정해",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 11,
+        "day": 9
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "정해",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-11",
+        "lunar_year": 2026,
+        "lunar_month": 11,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2026-12-09",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "정사",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2026,
+        "month": 12,
+        "day": 9
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 11,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "정사",
+      "published_calendar_day_ganji_match": true
+    },
+    {
+      "official": {
+        "case_id": "L2026-12",
+        "lunar_year": 2026,
+        "lunar_month": 12,
+        "lunar_day": 1,
+        "is_leap_month": false,
+        "solar_date": "2027-01-08",
+        "lunar_month_length_days": 30,
+        "calendar_day_ganji_ko": "정해",
+        "source_id": "KASI_YEARBOOK_2026",
+        "source_pdf_page": 8,
+        "source_printed_page": "8",
+        "evidence": "direct transcription; page image visually verified",
+        "note": "calendar day ganji, not an assertion about a school-specific birth-hour day-pillar rollover"
+      },
+      "actual_solar": {
+        "year": 2027,
+        "month": 1,
+        "day": 8
+      },
+      "actual_lunar": {
+        "year": 2026,
+        "month": 12,
+        "day": 1,
+        "leap": false
+      },
+      "lunar_to_solar_match": true,
+      "solar_to_lunar_match": true,
+      "noon_day_ganji_ko": "정해",
+      "published_calendar_day_ganji_match": true
+    }
+  ],
+  "provenance": {
+    "database_sha256": "52a4a62911a0c0affca2e1f21a0b2866d62e1603eb69d35c383061aaa02a2be3",
+    "source_sha256": "84a0e9370067a4e6ed738d6ea404eb48b89d934e95000cdc83cabef01780580b",
+    "sources": {
+      "schema_version": 1,
+      "sources": [
+        {
+          "id": "KASI_YEARBOOK_2025",
+          "title_ko": "2025 역서",
+          "title_en": "Korean Astronomical Almanac for the Year 2025",
+          "issuing_body": "한국천문연구원",
+          "compilers": [
+            "손동효",
+            "박한얼"
+          ],
+          "publisher_distribution": "에스엠북(SMBook)",
+          "publication_date": "2024-10-25",
+          "printing_date": "2024-10-20",
+          "isbn": "979-11-976090-3-9",
+          "edition_status": "published yearbook; not provisional calendarData",
+          "url": "https://astro.kasi.re.kr/file/astro_almanac_pdf/20250828102520786.pdf",
+          "discovery_page": "https://astro.kasi.re.kr/kor/almanac/pageView/26",
+          "publication_metadata_pdf_page": 232,
+          "data_pdf_page": 8,
+          "data_printed_page": "8",
+          "retrieved_date": "2026-11-03",
+          "sha256": "a3a267050ce614fd3cbeec803326861dea6a1fe5b2b9a038090433eb9bb0c8e3",
+          "bytes": 26615807,
+          "pdf_page_count": 232,
+          "redistribution": "Temporary research inspection copy only; deliver source URL/hash/page and extracted factual fixtures, not the full copyrighted PDF."
+        },
+        {
+          "id": "KASI_YEARBOOK_2026",
+          "title_ko": "2026 역서",
+          "title_en": "Korean Astronomical Almanac for the Year 2026",
+          "issuing_body": "한국천문연구원",
+          "compilers": [
+            "손동효",
+            "박한얼"
+          ],
+          "publisher_distribution": "에스엠북(SMBook)",
+          "publication_date": "2025-09-25",
+          "printing_date": "2025-09-20",
+          "isbn": "979-11-976090-0-8",
+          "edition_status": "published yearbook; not provisional calendarData",
+          "url": "https://astro.kasi.re.kr/file/astro_almanac_pdf/20260325110341610.pdf",
+          "discovery_page": "https://astro.kasi.re.kr/kor/almanac/pageView/26",
+          "publication_metadata_pdf_page": 232,
+          "data_pdf_page": 8,
+          "data_printed_page": "8",
+          "retrieved_date": "2026-11-03",
+          "sha256": "c192b67d54f4a39481dcfd0e76d74ab7131d52630a41ea0a73f25988cc4b958b",
+          "bytes": 24635185,
+          "pdf_page_count": 232,
+          "redistribution": "Temporary research inspection copy only; deliver source URL/hash/page and extracted factual fixtures, not the full copyrighted PDF."
+        }
+      ],
+      "limitations": [
+        "Published solar-term time resolution is one minute; do not infer exact seconds.",
+        "The KASI table provides astronomical/calendar facts, not scientific evidence for fortune-telling prediction.",
+        "Saju year/month/day/hour pillar policies, unknown birth hour handling, yaja-si and true solar time are separate declared implementation policies.",
+        "KASI ephemerides and the target app may share underlying astronomical models; this is external published-source validation, not proven mathematical independence of all computational ancestors.",
+        "Minute-level comparison should report signed/absolute minute deviations and mismatches; exact-minute boundary birth cases need explicit precision handling."
+      ]
+    },
+    "oracle_sha256": {
+      "solar_terms_2025_2026.json": "e42b8ce8564857635177f15223afce26fafe9e2206d87b22cacb8d0b5d626f68",
+      "lunar_month_starts_2025_2026.json": "a30d6e4ecbafdc1c81076f39e85359abe2c7c3ec76d3e28a09cfc45236f46409",
+      "source_manifest.json": "e4040cb0ae5b0cad9dc6cf4e2021ac4ff8110e2f53775b8cbcd75a392a84cef3"
+    },
+    "original_database_unchanged": true,
+    "frozen_case_evidence_unchanged": true,
+    "frozen_case_sha256": {
+      "synthetic-cases.json": "15c77fac922cc431beb9ea6c01eebcc6bd3864472f250a8829ca5c44408f0df7",
+      "calendar-case-observations.json": "2d569a8c38fee3282f051ceacb639fc20cc40704d63be6ac1055f9b35127a1af",
+      "unknown-time-enumeration.json": "f77b85d47219c13c9d3552ba38ae6755b5a041ce2a691b27fe4b5917aadfb349",
+      "calendar-audit-manifest.json": "b22e582e95bf59021311a7db59159caabf0a7054082af2a4a624e75589a49cc3"
+    },
+    "model_inference_performed": false
+  }
+}

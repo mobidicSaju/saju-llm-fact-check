@@ -1,0 +1,37 @@
+{
+  "payload": {
+    "model": "gemma4:26b-mlx",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Return only this JSON: {\"ready\":true}"
+      }
+    ],
+    "stream": false,
+    "think": false,
+    "options": {
+      "temperature": 0,
+      "seed": 20261103,
+      "num_ctx": 16384,
+      "num_predict": 64
+    }
+  },
+  "response": {
+    "model": "gemma4:26b-mlx",
+    "created_at": "2026-11-03T03:18:00.301447Z",
+    "message": {
+      "role": "assistant",
+      "content": "{\"ready\":true}"
+    },
+    "done": true,
+    "done_reason": "stop",
+    "total_duration": 35461570333,
+    "load_duration": 7714566666,
+    "prompt_eval_count": 23,
+    "prompt_eval_cached_count": 0,
+    "prompt_eval_duration": 27532077709,
+    "eval_count": 5,
+    "eval_duration": 193403584
+  },
+  "wall_seconds": 35.4822994999995
+}

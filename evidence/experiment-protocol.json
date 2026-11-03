@@ -1,0 +1,761 @@
+{
+  "created_at": "2026-11-03T03:21:45.613382+00:00",
+  "study_type": "finite purposive paired case study; not preregistered externally",
+  "cases": [
+    {
+      "case_id": "C01",
+      "family_id": "ordinary-19900515",
+      "category": "ordinary_known",
+      "input": {
+        "year": 1990,
+        "month": 5,
+        "day": 15,
+        "hour": 14,
+        "minute": 0,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚午"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "庚辰"
+        },
+        "hour": {
+          "status": "known",
+          "value": "癸未"
+        }
+      }
+    },
+    {
+      "case_id": "C02",
+      "family_id": "ordinary-19900515",
+      "category": "ordinary_unknown",
+      "input": {
+        "year": 1990,
+        "month": 5,
+        "day": 15,
+        "hour": null,
+        "minute": null,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚午"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "ambiguous",
+          "value": null
+        },
+        "hour": {
+          "status": "unknown",
+          "value": null
+        }
+      }
+    },
+    {
+      "case_id": "C03",
+      "family_id": "ordinary-19900515",
+      "category": "known_midnight",
+      "input": {
+        "year": 1990,
+        "month": 5,
+        "day": 15,
+        "hour": 0,
+        "minute": 0,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚午"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "庚辰"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丙子"
+        }
+      }
+    },
+    {
+      "case_id": "C04",
+      "family_id": "gregorian-leap-2000",
+      "category": "valid_gregorian_leap_day",
+      "input": {
+        "year": 2000,
+        "month": 2,
+        "day": 29,
+        "hour": 12,
+        "minute": 0,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚辰"
+        },
+        "month": {
+          "status": "known",
+          "value": "戊寅"
+        },
+        "day": {
+          "status": "known",
+          "value": "丁巳"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丙午"
+        }
+      }
+    },
+    {
+      "case_id": "C06",
+      "family_id": "ipchun-2025",
+      "category": "embedded_term_-1_minute",
+      "input": {
+        "year": 2025,
+        "month": 2,
+        "day": 3,
+        "hour": 22,
+        "minute": 48,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "甲辰"
+        },
+        "month": {
+          "status": "known",
+          "value": "丁丑"
+        },
+        "day": {
+          "status": "known",
+          "value": "癸卯"
+        },
+        "hour": {
+          "status": "known",
+          "value": "癸亥"
+        }
+      }
+    },
+    {
+      "case_id": "C07",
+      "family_id": "ipchun-2025",
+      "category": "embedded_term_+0_minute",
+      "input": {
+        "year": 2025,
+        "month": 2,
+        "day": 3,
+        "hour": 22,
+        "minute": 49,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "乙巳"
+        },
+        "month": {
+          "status": "known",
+          "value": "戊寅"
+        },
+        "day": {
+          "status": "known",
+          "value": "癸卯"
+        },
+        "hour": {
+          "status": "known",
+          "value": "癸亥"
+        }
+      }
+    },
+    {
+      "case_id": "C08",
+      "family_id": "ipchun-2025",
+      "category": "embedded_term_+1_minute",
+      "input": {
+        "year": 2025,
+        "month": 2,
+        "day": 3,
+        "hour": 22,
+        "minute": 50,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "乙巳"
+        },
+        "month": {
+          "status": "known",
+          "value": "戊寅"
+        },
+        "day": {
+          "status": "known",
+          "value": "癸卯"
+        },
+        "hour": {
+          "status": "known",
+          "value": "癸亥"
+        }
+      }
+    },
+    {
+      "case_id": "C09",
+      "family_id": "ipchun-2025",
+      "category": "ipchun_unknown",
+      "input": {
+        "year": 2025,
+        "month": 2,
+        "day": 3,
+        "hour": null,
+        "minute": null,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "ambiguous",
+          "value": null
+        },
+        "month": {
+          "status": "ambiguous",
+          "value": null
+        },
+        "day": {
+          "status": "ambiguous",
+          "value": null
+        },
+        "hour": {
+          "status": "unknown",
+          "value": null
+        }
+      }
+    },
+    {
+      "case_id": "C10",
+      "family_id": "ipchun-2026",
+      "category": "embedded_term_-1_minute",
+      "input": {
+        "year": 2026,
+        "month": 2,
+        "day": 4,
+        "hour": 4,
+        "minute": 37,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "乙巳"
+        },
+        "month": {
+          "status": "known",
+          "value": "己丑"
+        },
+        "day": {
+          "status": "known",
+          "value": "己酉"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丙寅"
+        }
+      }
+    },
+    {
+      "case_id": "C11",
+      "family_id": "ipchun-2026",
+      "category": "embedded_term_+0_minute",
+      "input": {
+        "year": 2026,
+        "month": 2,
+        "day": 4,
+        "hour": 4,
+        "minute": 38,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "丙午"
+        },
+        "month": {
+          "status": "known",
+          "value": "庚寅"
+        },
+        "day": {
+          "status": "known",
+          "value": "己酉"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丙寅"
+        }
+      }
+    },
+    {
+      "case_id": "C12",
+      "family_id": "ipchun-2026",
+      "category": "embedded_term_+1_minute",
+      "input": {
+        "year": 2026,
+        "month": 2,
+        "day": 4,
+        "hour": 4,
+        "minute": 39,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "丙午"
+        },
+        "month": {
+          "status": "known",
+          "value": "庚寅"
+        },
+        "day": {
+          "status": "known",
+          "value": "己酉"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丙寅"
+        }
+      }
+    },
+    {
+      "case_id": "C13",
+      "family_id": "ipchun-2026",
+      "category": "ipchun_unknown",
+      "input": {
+        "year": 2026,
+        "month": 2,
+        "day": 4,
+        "hour": null,
+        "minute": null,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "ambiguous",
+          "value": null
+        },
+        "month": {
+          "status": "ambiguous",
+          "value": null
+        },
+        "day": {
+          "status": "ambiguous",
+          "value": null
+        },
+        "hour": {
+          "status": "unknown",
+          "value": null
+        }
+      }
+    },
+    {
+      "case_id": "C14",
+      "family_id": "night-rollover-19900515",
+      "category": "night_before_default_boundary",
+      "input": {
+        "year": 1990,
+        "month": 5,
+        "day": 15,
+        "hour": 23,
+        "minute": 29,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚午"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "庚辰"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丁亥"
+        }
+      }
+    },
+    {
+      "case_id": "C15",
+      "family_id": "night-rollover-19900515",
+      "category": "night_at_default_boundary",
+      "input": {
+        "year": 1990,
+        "month": 5,
+        "day": 15,
+        "hour": 23,
+        "minute": 30,
+        "gender": "M",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚午"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "hour": {
+          "status": "known",
+          "value": "戊子"
+        }
+      }
+    },
+    {
+      "case_id": "C16",
+      "family_id": "night-rollover-19900515",
+      "category": "night_yajasi",
+      "input": {
+        "year": 1990,
+        "month": 5,
+        "day": 15,
+        "hour": 23,
+        "minute": 30,
+        "gender": "M",
+        "name": "합성 연구 사례",
+        "use_yaja_si": true
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚午"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "庚辰"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丙子"
+        }
+      }
+    },
+    {
+      "case_id": "C17",
+      "family_id": "night-rollover-19900515",
+      "category": "night_no_korean_offset",
+      "input": {
+        "year": 1990,
+        "month": 5,
+        "day": 15,
+        "hour": 23,
+        "minute": 0,
+        "gender": "M",
+        "name": "합성 연구 사례",
+        "use_korean_time": false
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚午"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "hour": {
+          "status": "known",
+          "value": "戊子"
+        }
+      }
+    },
+    {
+      "case_id": "C18",
+      "family_id": "dst-19880710",
+      "category": "historical_dst_default",
+      "input": {
+        "year": 1988,
+        "month": 7,
+        "day": 10,
+        "hour": 0,
+        "minute": 10,
+        "gender": "F",
+        "name": "합성 연구 사례"
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "戊辰"
+        },
+        "month": {
+          "status": "known",
+          "value": "己未"
+        },
+        "day": {
+          "status": "known",
+          "value": "乙丑"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丁亥"
+        }
+      }
+    },
+    {
+      "case_id": "C19",
+      "family_id": "dst-19880710",
+      "category": "historical_dst_disabled",
+      "input": {
+        "year": 1988,
+        "month": 7,
+        "day": 10,
+        "hour": 0,
+        "minute": 10,
+        "gender": "F",
+        "name": "합성 연구 사례",
+        "apply_dst_correction": false
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "戊辰"
+        },
+        "month": {
+          "status": "known",
+          "value": "己未"
+        },
+        "day": {
+          "status": "known",
+          "value": "丙寅"
+        },
+        "hour": {
+          "status": "known",
+          "value": "戊子"
+        }
+      }
+    },
+    {
+      "case_id": "C20",
+      "family_id": "dst-19880710",
+      "category": "historical_dst_true_solar",
+      "input": {
+        "year": 1988,
+        "month": 7,
+        "day": 10,
+        "hour": 0,
+        "minute": 10,
+        "gender": "F",
+        "name": "합성 연구 사례",
+        "use_true_solar_time": true
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "戊辰"
+        },
+        "month": {
+          "status": "known",
+          "value": "己未"
+        },
+        "day": {
+          "status": "known",
+          "value": "乙丑"
+        },
+        "hour": {
+          "status": "known",
+          "value": "丁亥"
+        }
+      }
+    },
+    {
+      "case_id": "C21",
+      "family_id": "lunar-2020-month4",
+      "category": "lunar_regular",
+      "input": {
+        "year": 2020,
+        "month": 4,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "gender": "M",
+        "name": "합성 연구 사례",
+        "is_lunar": true,
+        "is_leap": false
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚子"
+        },
+        "month": {
+          "status": "known",
+          "value": "庚辰"
+        },
+        "day": {
+          "status": "known",
+          "value": "丙申"
+        },
+        "hour": {
+          "status": "known",
+          "value": "甲午"
+        }
+      }
+    },
+    {
+      "case_id": "C22",
+      "family_id": "lunar-2020-month4",
+      "category": "lunar_leap",
+      "input": {
+        "year": 2020,
+        "month": 4,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "gender": "M",
+        "name": "합성 연구 사례",
+        "is_lunar": true,
+        "is_leap": true
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚子"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "丙寅"
+        },
+        "hour": {
+          "status": "known",
+          "value": "甲午"
+        }
+      }
+    },
+    {
+      "case_id": "C24",
+      "family_id": "lunar-2020-month4",
+      "category": "lunar_true_solar_interaction",
+      "input": {
+        "year": 2020,
+        "month": 4,
+        "day": 1,
+        "hour": 0,
+        "minute": 10,
+        "gender": "M",
+        "name": "합성 연구 사례",
+        "is_lunar": true,
+        "is_leap": true,
+        "use_true_solar_time": true
+      },
+      "reference": {
+        "year": {
+          "status": "known",
+          "value": "庚子"
+        },
+        "month": {
+          "status": "known",
+          "value": "辛巳"
+        },
+        "day": {
+          "status": "known",
+          "value": "丁卯"
+        },
+        "hour": {
+          "status": "known",
+          "value": "庚子"
+        }
+      }
+    }
+  ],
+  "families": 7,
+  "repeats": 2,
+  "generative_arms": [
+    "A",
+    "B",
+    "C"
+  ],
+  "calls": 132,
+  "D": "reuse exact C response; exact schema and all-field fidelity gate; deliver unchanged or abstain; no repair/regeneration",
+  "excluded_before_generation": {
+    "C05": "invalid Gregorian date, engine rejected",
+    "C23": "invalid leap lunar month, audit found silent fallback; input validity control analyzed separately"
+  },
+  "reference": "frozen implementation outputs + enumerated unknown-time field states; NOT independent oracle",
+  "metrics": [
+    "exact 4-field response match",
+    "correct fields / all 4 required fields",
+    "parse/schema pass",
+    "unknown/ambiguous field preservation",
+    "delivered response coverage for D",
+    "raw errors and wall latency"
+  ],
+  "inference": "counts and descriptive paired differences only; no population significance claims",
+  "seeds": [
+    20261103,
+    20261104
+  ],
+  "policy": {
+    "calendar_default": "solar",
+    "timezone": "Asia/Seoul",
+    "use_yaja_si": false,
+    "use_korean_time": true,
+    "use_true_solar_time": false,
+    "longitude": 126.978,
+    "apply_dst_correction": true,
+    "apply_timezone_history": true,
+    "note": "한국시간 기본 -30분; 보정시각 23:00부터 익일 일주, use_yaja_si=true면 당일 일주; 절입은 내장DB의 한국표준시각 기준. 평가 기준은 해당 구현의 결과이다."
+  },
+  "script_sha256": "f4b039f38b18852e58a7c449a02a3c2262a98a489da39cb09719595030403607",
+  "request_count": 132
+}

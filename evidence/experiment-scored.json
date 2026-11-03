@@ -1,0 +1,7285 @@
+[
+  {
+    "run_id": "C07_C_R2",
+    "case_id": "C07",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.7220443750011327,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C16_C_R2",
+    "case_id": "C16",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.7251230830006534,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C01_A_R1",
+    "case_id": "C01",
+    "family_id": "ordinary-19900515",
+    "arm": "A",
+    "repeat": 1,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.9222858749999432,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C13_B_R1",
+    "case_id": "C13",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.582474041999376,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C17_B_R2",
+    "case_id": "C17",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.020598625000275,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C08_B_R1",
+    "case_id": "C08",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.626313458000368,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C13_C_R1",
+    "case_id": "C13",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.955311540999901,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C15_A_R2",
+    "case_id": "C15",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 2,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.8424629159999313,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C03_B_R1",
+    "case_id": "C03",
+    "family_id": "ordinary-19900515",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6043613339988951,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C10_B_R2",
+    "case_id": "C10",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6172804590005398,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C11_A_R2",
+    "case_id": "C11",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.910910500000682,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C17_C_R1",
+    "case_id": "C17",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.9815113339991512,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C02_B_R1",
+    "case_id": "C02",
+    "family_id": "ordinary-19900515",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6795615420014656,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C21_C_R1",
+    "case_id": "C21",
+    "family_id": "lunar-2020-month4",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6795254579992616,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C19_C_R1",
+    "case_id": "C19",
+    "family_id": "dst-19880710",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.7955295419997128,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C19_A_R1",
+    "case_id": "C19",
+    "family_id": "dst-19880710",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.7787455419984326,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C08_C_R2",
+    "case_id": "C08",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.9858320000003005,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C08_A_R2",
+    "case_id": "C08",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.7433520840004348,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C01_B_R1",
+    "case_id": "C01",
+    "family_id": "ordinary-19900515",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.9263192910002545,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C06_A_R1",
+    "case_id": "C06",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.0822897500002,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C14_A_R2",
+    "case_id": "C14",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 2,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.070149582999875,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C08_A_R1",
+    "case_id": "C08",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6510757079995528,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C02_C_R2",
+    "case_id": "C02",
+    "family_id": "ordinary-19900515",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.811072417000105,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C09_C_R1",
+    "case_id": "C09",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.2131269159999647,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C02_B_R2",
+    "case_id": "C02",
+    "family_id": "ordinary-19900515",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.1095170000007784,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C03_C_R2",
+    "case_id": "C03",
+    "family_id": "ordinary-19900515",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.8818342079994181,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C18_B_R2",
+    "case_id": "C18",
+    "family_id": "dst-19880710",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6991125830008968,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C20_C_R1",
+    "case_id": "C20",
+    "family_id": "dst-19880710",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6384977079997043,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C19_A_R2",
+    "case_id": "C19",
+    "family_id": "dst-19880710",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.1094307499988645,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C13_B_R2",
+    "case_id": "C13",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.710264332999941,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C02_A_R2",
+    "case_id": "C02",
+    "family_id": "ordinary-19900515",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.8623902500003169,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C12_A_R1",
+    "case_id": "C12",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "ambiguous",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.886470499999632,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C12_A_R2",
+    "case_id": "C12",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6038262080001005,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C04_B_R2",
+    "case_id": "C04",
+    "family_id": "gregorian-leap-2000",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 1.6470306669998536,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C16_A_R1",
+    "case_id": "C16",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.4971397499994055,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C12_C_R2",
+    "case_id": "C12",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.9485280409990082,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C11_B_R1",
+    "case_id": "C11",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.1809192079999775,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C22_A_R2",
+    "case_id": "C22",
+    "family_id": "lunar-2020-month4",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "壬午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2947913339994557,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C08_C_R1",
+    "case_id": "C08",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.891920374999245,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C09_B_R2",
+    "case_id": "C09",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.445802082998853,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C14_B_R1",
+    "case_id": "C14",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.772118374999991,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C16_A_R2",
+    "case_id": "C16",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2040131250014383,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C03_A_R2",
+    "case_id": "C03",
+    "family_id": "ordinary-19900515",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.690407250000135,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C18_A_R1",
+    "case_id": "C18",
+    "family_id": "dst-19880710",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.750901209001313,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C10_C_R2",
+    "case_id": "C10",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.7423303329996997,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C20_A_R2",
+    "case_id": "C20",
+    "family_id": "dst-19880710",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.664715875000184,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C19_B_R1",
+    "case_id": "C19",
+    "family_id": "dst-19880710",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.3868888750002952,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C01_C_R2",
+    "case_id": "C01",
+    "family_id": "ordinary-19900515",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.555382708000252,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C22_B_R2",
+    "case_id": "C22",
+    "family_id": "lunar-2020-month4",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.149649167000462,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C11_C_R2",
+    "case_id": "C11",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.176383166999585,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C17_A_R2",
+    "case_id": "C17",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.8727244999990944,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C20_A_R1",
+    "case_id": "C20",
+    "family_id": "dst-19880710",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.5457245409997995,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C04_C_R1",
+    "case_id": "C04",
+    "family_id": "gregorian-leap-2000",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.8393190410006355,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C03_C_R1",
+    "case_id": "C03",
+    "family_id": "ordinary-19900515",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.797145082999123,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C21_B_R2",
+    "case_id": "C21",
+    "family_id": "lunar-2020-month4",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.8519229579997045,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C15_B_R2",
+    "case_id": "C15",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.710538417000862,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C14_C_R1",
+    "case_id": "C14",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.59684391600058,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C22_A_R1",
+    "case_id": "C22",
+    "family_id": "lunar-2020-month4",
+    "arm": "A",
+    "repeat": 1,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 6.691524709000078,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C21_C_R2",
+    "case_id": "C21",
+    "family_id": "lunar-2020-month4",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.448887499998818,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C16_C_R1",
+    "case_id": "C16",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.735399792001772,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C20_C_R2",
+    "case_id": "C20",
+    "family_id": "dst-19880710",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.7175384999991365,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C07_A_R2",
+    "case_id": "C07",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.3285960409994,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C17_A_R1",
+    "case_id": "C17",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙戌"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.9259400829996594,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C06_C_R2",
+    "case_id": "C06",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.111268624999866,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C15_C_R2",
+    "case_id": "C15",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.4427525409992086,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C21_A_R2",
+    "case_id": "C21",
+    "family_id": "lunar-2020-month4",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙戌"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.951331083000696,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C04_C_R2",
+    "case_id": "C04",
+    "family_id": "gregorian-leap-2000",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.8506053330002032,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C09_A_R1",
+    "case_id": "C09",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.4754797919995326,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C24_A_R1",
+    "case_id": "C24",
+    "family_id": "lunar-2020-month4",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.646106167001562,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C01_C_R1",
+    "case_id": "C01",
+    "family_id": "ordinary-19900515",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.247609875001217,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C10_A_R2",
+    "case_id": "C10",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 2,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.380518792000657,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C18_C_R2",
+    "case_id": "C18",
+    "family_id": "dst-19880710",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2366856249991542,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C20_B_R1",
+    "case_id": "C20",
+    "family_id": "dst-19880710",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.1213833749989135,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C13_A_R2",
+    "case_id": "C13",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.314831832998607,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C13_C_R2",
+    "case_id": "C13",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": false,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.0756479170013336,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C06_B_R1",
+    "case_id": "C06",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.6557130420005706,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C03_B_R2",
+    "case_id": "C03",
+    "family_id": "ordinary-19900515",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.960970500000258,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C08_B_R2",
+    "case_id": "C08",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.464389207998465,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C13_A_R1",
+    "case_id": "C13",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.218045583000276,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C24_B_R2",
+    "case_id": "C24",
+    "family_id": "lunar-2020-month4",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.041473792000033,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C04_A_R2",
+    "case_id": "C04",
+    "family_id": "gregorian-leap-2000",
+    "arm": "A",
+    "repeat": 2,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 6.141612208000879,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C10_B_R1",
+    "case_id": "C10",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.76111100000162,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C07_B_R1",
+    "case_id": "C07",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.428538499998467,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C22_C_R1",
+    "case_id": "C22",
+    "family_id": "lunar-2020-month4",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.8401998749995983,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C04_B_R1",
+    "case_id": "C04",
+    "family_id": "gregorian-leap-2000",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.207736459000444,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C02_C_R1",
+    "case_id": "C02",
+    "family_id": "ordinary-19900515",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.703213083999799,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C17_B_R1",
+    "case_id": "C17",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.302910415999577,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C18_C_R1",
+    "case_id": "C18",
+    "family_id": "dst-19880710",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.154903374999776,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C18_A_R2",
+    "case_id": "C18",
+    "family_id": "dst-19880710",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.4023315829999774,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C11_C_R1",
+    "case_id": "C11",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.541246750000937,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C22_B_R1",
+    "case_id": "C22",
+    "family_id": "lunar-2020-month4",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.798350166000091,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C01_A_R2",
+    "case_id": "C01",
+    "family_id": "ordinary-19900515",
+    "arm": "A",
+    "repeat": 2,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.249483166999198,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C11_A_R1",
+    "case_id": "C11",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 1,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.426058125000054,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C15_A_R1",
+    "case_id": "C15",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 1,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.944262625000192,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C04_A_R1",
+    "case_id": "C04",
+    "family_id": "gregorian-leap-2000",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "壬午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.644964875000369,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C02_A_R1",
+    "case_id": "C02",
+    "family_id": "ordinary-19900515",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.915765875000943,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C07_A_R1",
+    "case_id": "C07",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.208675375000894,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C19_C_R2",
+    "case_id": "C19",
+    "family_id": "dst-19880710",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2630053749999206,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C12_B_R1",
+    "case_id": "C12",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.187162292000721,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C10_C_R1",
+    "case_id": "C10",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.480851166999855,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C14_B_R2",
+    "case_id": "C14",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.0639797919993725,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C16_B_R1",
+    "case_id": "C16",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2032227079998847,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C19_B_R2",
+    "case_id": "C19",
+    "family_id": "dst-19880710",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.032960834001642,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C21_B_R1",
+    "case_id": "C21",
+    "family_id": "lunar-2020-month4",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.5663520409998455,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C16_B_R2",
+    "case_id": "C16",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.7822990829990886,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C15_B_R1",
+    "case_id": "C15",
+    "family_id": "night-rollover-19900515",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.3286862500008283,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C17_C_R2",
+    "case_id": "C17",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 5.656045790999997,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C24_B_R1",
+    "case_id": "C24",
+    "family_id": "lunar-2020-month4",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.314054375001433,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C07_B_R2",
+    "case_id": "C07",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.0977215000002616,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C22_C_R2",
+    "case_id": "C22",
+    "family_id": "lunar-2020-month4",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙寅"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.062014375000217,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C10_A_R1",
+    "case_id": "C10",
+    "family_id": "ipchun-2026",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "己丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.798242167000353,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C12_B_R2",
+    "case_id": "C12",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.4430620839993935,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C21_A_R1",
+    "case_id": "C21",
+    "family_id": "lunar-2020-month4",
+    "arm": "A",
+    "repeat": 1,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙申"
+      },
+      "hour": {
+        "status": "known",
+        "value": "甲午"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.6004908329996397,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C24_C_R2",
+    "case_id": "C24",
+    "family_id": "lunar-2020-month4",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.5964282500008267,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C06_C_R1",
+    "case_id": "C06",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 4.057239542000389,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C24_C_R1",
+    "case_id": "C24",
+    "family_id": "lunar-2020-month4",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.5770094159997825,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C09_C_R2",
+    "case_id": "C09",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.1933225839984516,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C09_A_R2",
+    "case_id": "C09",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.6730704579986195,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C11_B_R2",
+    "case_id": "C11",
+    "family_id": "ipchun-2026",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.1805446250000386,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C20_B_R2",
+    "case_id": "C20",
+    "family_id": "dst-19880710",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.7683012090001284,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C12_C_R1",
+    "case_id": "C12",
+    "family_id": "ipchun-2026",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "己酉"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙寅"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.204832957999315,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C01_B_R2",
+    "case_id": "C01",
+    "family_id": "ordinary-19900515",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸未"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.0489329579995683,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C03_A_R1",
+    "case_id": "C03",
+    "family_id": "ordinary-19900515",
+    "arm": "A",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙午"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丙子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.3151320000015403,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C07_C_R1",
+    "case_id": "C07",
+    "family_id": "ipchun-2025",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2150379169997905,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C14_C_R2",
+    "case_id": "C14",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.01476137499958,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C06_A_R2",
+    "case_id": "C06",
+    "family_id": "ipchun-2025",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "乙巳"
+      },
+      "month": {
+        "status": "known",
+        "value": "戊寅"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2931497499994293,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C06_B_R2",
+    "case_id": "C06",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "甲辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "丁丑"
+      },
+      "day": {
+        "status": "known",
+        "value": "癸卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "癸亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.935081707999416,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C18_B_R1",
+    "case_id": "C18",
+    "family_id": "dst-19880710",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "戊辰"
+      },
+      "month": {
+        "status": "known",
+        "value": "己未"
+      },
+      "day": {
+        "status": "known",
+        "value": "乙丑"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.6715684169994347,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C24_A_R2",
+    "case_id": "C24",
+    "family_id": "lunar-2020-month4",
+    "arm": "A",
+    "repeat": 2,
+    "parse": true,
+    "schema": true,
+    "exact": false,
+    "fields": {
+      "year": true,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "day": {
+        "status": "known",
+        "value": "丙辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚子"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "丁卯"
+      },
+      "hour": {
+        "status": "known",
+        "value": "庚子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.3455387499998324,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C15_C_R1",
+    "case_id": "C15",
+    "family_id": "night-rollover-19900515",
+    "arm": "C",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {},
+    "parsed": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "hour": {
+        "status": "known",
+        "value": "戊子"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.9894444170004135,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C14_A_R1",
+    "case_id": "C14",
+    "family_id": "night-rollover-19900515",
+    "arm": "A",
+    "repeat": 1,
+    "parse": false,
+    "schema": false,
+    "exact": false,
+    "fields": {
+      "year": false,
+      "month": false,
+      "day": false,
+      "hour": false
+    },
+    "uncertain_fields": {},
+    "parsed": null,
+    "reference": {
+      "year": {
+        "status": "known",
+        "value": "庚午"
+      },
+      "month": {
+        "status": "known",
+        "value": "辛巳"
+      },
+      "day": {
+        "status": "known",
+        "value": "庚辰"
+      },
+      "hour": {
+        "status": "known",
+        "value": "丁亥"
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 2.9882780000007187,
+    "done_reason": "stop"
+  },
+  {
+    "run_id": "C09_B_R1",
+    "case_id": "C09",
+    "family_id": "ipchun-2025",
+    "arm": "B",
+    "repeat": 1,
+    "parse": true,
+    "schema": true,
+    "exact": true,
+    "fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "uncertain_fields": {
+      "year": true,
+      "month": true,
+      "day": true,
+      "hour": true
+    },
+    "parsed": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "reference": {
+      "year": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "month": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "day": {
+        "status": "ambiguous",
+        "value": null
+      },
+      "hour": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    "response_status": "response",
+    "wall_seconds": 3.2602793749992998,
+    "done_reason": "stop"
+  }
+]

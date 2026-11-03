@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-03",
+  "phase": "final public staging after native verification and full-page visual review",
+  "origin": "https://github.com/mobidicSaju/saju-llm-fact-check.git",
+  "branch": "main",
+  "commit_exists": false,
+  "commit_or_push_performed": false,
+  "audited_files_excluding_this_report": 52,
+  "public_files_including_this_report": 53,
+  "bytes": 9772132,
+  "text_units_scanned_including_pdf_and_idml_xml": 867,
+  "secret_private_path_or_excluded_material_findings": [],
+  "intended_public_author_email": [
+    "vividsaebom@gmail.com"
+  ],
+  "original_evidence_files_sha256_matched": [
+    "calendar-case-observations.json",
+    "calendar-metamorphic-observations.json",
+    "experiment-frozen-hashes.json",
+    "experiment-protocol.json",
+    "experiment-raw.jsonl",
+    "experiment-requests.json",
+    "experiment-scored.json",
+    "experiment-summary.json",
+    "format-sensitivity.json",
+    "official-ipchun-engine-checks.json",
+    "official-lunar-month-start-checks.json",
+    "official-solar-term-comparison.json",
+    "runtime.json",
+    "synthetic-cases.json",
+    "unknown-time-enumeration.json",
+    "validator-fault-injection.json",
+    "warmup.json",
+    "kasi-oracle/source_manifest.json",
+    "kasi-oracle/lunar_month_starts_2025_2026.json",
+    "kasi-oracle/solar_terms_2025_2026.json"
+  ],
+  "git_filters_preserve_all_original_evidence_bytes": true,
+  "apache_license_official_source_and_sha256_match": true,
+  "notice_and_citation_present": true,
+  "github_actions_workflow_files_present": false,
+  "native_artifacts_status": "saved and reopened in InDesign 21.6; 16 pages, 794 stories, four approved fonts, zero overset/links/preflight errors; native PDF ordered text and all-page visual review passed",
+  "indd_binary_scan_limit": "UTF-8 and UTF-16 string checks and whole original font payload checks are limited checks, not an exhaustive proof about compressed/encoded binary contents.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 92,
+      "sha256": "658e3d24eab4d33d1b6e95f231637b881b6ab1cd2e0b366b366bc95005a4049c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 186,
+      "sha256": "37c7bdfd67d5b6c4ab3e3598af938c5f6745ab873da3a06524f11f45a9fcb5f4"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1273,
+      "sha256": "7967699189b51b96f8b19303a6d815c1e60d04a970df719211aee461e48e8e4f"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 655,
+      "sha256": "f857a97ad0eb0e00a90cac07387b1c26a5ab0c6a4a787d1b7758bea08d77f82c"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "LICENSE_SOURCE.json",
+      "bytes": 275,
+      "sha256": "a7a03062b9522b60addb7c4d201fc288162d22fdc10c3473530744d55304c028"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 2188,
+      "sha256": "b90b5ecdd9edd5ef90e039d6b0e881e83eb63de22e1aa43b448d11387d91dfec"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9144,
+      "sha256": "b337cc68dc80e4f95608d38f94c0dbf1149b6a47683343203f47668feca8053b"
+    },
+    {
+      "path": "evidence/calendar-case-observations.json",
+      "bytes": 1147720,
+      "sha256": "2d569a8c38fee3282f051ceacb639fc20cc40704d63be6ac1055f9b35127a1af"
+    },
+    {
+      "path": "evidence/calendar-metamorphic-observations.json",
+      "bytes": 40435,
+      "sha256": "894b0241eed7f1191773b68f8a9dbd7d82e477827f42169b2ace918baae8811e"
+    },
+    {
+      "path": "evidence/experiment-frozen-hashes.json",
+      "bytes": 406,
+      "sha256": "fe2ea7dab2fbe28f0caad9f25435bef396f1152bf499f4379daf019942f4672d"
+    },
+    {
+      "path": "evidence/experiment-protocol.json",
+      "bytes": 16966,
+      "sha256": "2fafacc505b490c0992e772fdc960105d87646fba460f05924f263d4493d97a3"
+    },
+    {
+      "path": "evidence/experiment-raw.jsonl",
+      "bytes": 156216,
+      "sha256": "84383aaf9b83772037664258774c11111b53f4e159c4772e3ece358c09504879"
+    },
+    {
+      "path": "evidence/experiment-requests.json",
+      "bytes": 334828,
+      "sha256": "e564a3bfe535ef4c8ccc50a249c1aace44135304e9f02d487ef4c82a52bb4510"
+    },
+    {
+      "path": "evidence/experiment-scored.json",
+      "bytes": 141281,
+      "sha256": "5e76a511d55a9924e4a26149f3a05b91f45b72d542992b0689246c262744a308"
+    },
+    {
+      "path": "evidence/experiment-summary.json",
+      "bytes": 2412,
+      "sha256": "836e872ecf7f8fe0b5dc9e04872ebd28d6bf699473951057e7147e0faf77447e"
+    },
+    {
+      "path": "evidence/format-sensitivity.json",
+      "bytes": 695,
+      "sha256": "edf3786d51a2eab51a098b103153ad5486bac73e04f85c9005583b90a579021d"
+    },
+    {
+      "path": "evidence/kasi-oracle/lunar_month_starts_2025_2026.json",
+      "bytes": 12738,
+      "sha256": "a30d6e4ecbafdc1c81076f39e85359abe2c7c3ec76d3e28a09cfc45236f46409"
+    },
+    {
+      "path": "evidence/kasi-oracle/solar_terms_2025_2026.json",
+      "bytes": 18179,
+      "sha256": "e42b8ce8564857635177f15223afce26fafe9e2206d87b22cacb8d0b5d626f68"
+    },
+    {
+      "path": "evidence/kasi-oracle/source_manifest.json",
+      "bytes": 3001,
+      "sha256": "e4040cb0ae5b0cad9dc6cf4e2021ac4ff8110e2f53775b8cbcd75a392a84cef3"
+    },
+    {
+      "path": "evidence/official-ipchun-engine-checks.json",
+      "bytes": 43358,
+      "sha256": "5ee4ec4b089220f7d3489df7af9de12b4a1d045c0b54c39e33b30e5e4e05391e"
+    },
+    {
+      "path": "evidence/official-lunar-month-start-checks.json",
+      "bytes": 28722,
+      "sha256": "ed6f2d27fefaf8cb016fd2fceccdbe55e640aefdf746602a52b36ad4c1e9c27c"
+    },
+    {
+      "path": "evidence/official-solar-term-comparison.json",
+      "bytes": 45266,
+      "sha256": "0b7efc5299b0706bb92a70c853de03701cc86c62f8c7c642b8dbd6bd42e5bc44"
+    },
+    {
+      "path": "evidence/public-source-provenance.json",
+      "bytes": 3854,
+      "sha256": "2f9fae39087a77b0a301be840334fa0d9709e7d3d7e76b93a5599e0bbdc2c7c5"
+    },
+    {
+      "path": "evidence/published-evidence-sha256.json",
+      "bytes": 4876,
+      "sha256": "ec71523179785252158987f5304658bf303b81a19da30c32fabfa0eb819807c5"
+    },
+    {
+      "path": "evidence/runtime.json",
+      "bytes": 1674,
+      "sha256": "a99189b5baf6d9be8f829e2a74c176a9deeb83eeb515348292054e5c2e804997"
+    },
+    {
+      "path": "evidence/synthetic-cases.json",
+      "bytes": 8792,
+      "sha256": "15c77fac922cc431beb9ea6c01eebcc6bd3864472f250a8829ca5c44408f0df7"
+    },
+    {
+      "path": "evidence/unknown-time-enumeration.json",
+      "bytes": 16112,
+      "sha256": "f77b85d47219c13c9d3552ba38ae6755b5a041ce2a691b27fe4b5917aadfb349"
+    },
+    {
+      "path": "evidence/validator-fault-injection.json",
+      "bytes": 20418,
+      "sha256": "256e904ff48a19491db4b11d7692971432879c36b75f54fabdfd6efa4f9f0b18"
+    },
+    {
+      "path": "evidence/warmup.json",
+      "bytes": 833,
+      "sha256": "b84c78b16ee13a840629fb0b2b9d91ff1502c8530e21e9ba87c59d1bab254f98"
+    },
+    {
+      "path": "manuscript.json",
+      "bytes": 56783,
+      "sha256": "ac4474d9dc2c61f7daa5122227087f82635852fd9339094d5661cc9e2b530d3b"
+    },
+    {
+      "path": "manuscript.txt",
+      "bytes": 44461,
+      "sha256": "b1a63bc8e26424f630f4c8904c6a32bafb3cb9a4471915d50b86d307592d1621"
+    },
+    {
+      "path": "paper/PAPER_PUBLIC_A4.idml",
+      "bytes": 656570,
+      "sha256": "3c02817f42da68e02c9abcbe8a0b58b78077e909ffa8b3b32554bad3a1303e1e"
+    },
+    {
+      "path": "paper/PAPER_PUBLIC_A4.indd",
+      "bytes": 5988352,
+      "sha256": "e2c12445b7d4da794f1fb463ca77813c096cfe4324c91bf8c6c96f95a9bb9ff1"
+    },
+    {
+      "path": "paper/PAPER_PUBLIC_A4.pdf",
+      "bytes": 614359,
+      "sha256": "82e6ea2bdbd5f2700fceca7fb506baf47512507a3dc0fa27a4bd967850a8c9fc"
+    },
+    {
+      "path": "paper/PAPER_PUBLIC_A4_INDESIGN.pdf",
+      "bytes": 226814,
+      "sha256": "323db23a63d343e80047f760512d499a41b238deaee5aa431264bd281016558c"
+    },
+    {
+      "path": "qa/indesign-native-check.txt",
+      "bytes": 671,
+      "sha256": "7367bd30d7e4e052107f348c5ce482e413135efdcd7b700540217316a5068190"
+    },
+    {
+      "path": "qa/indesign-reopen-check.txt",
+      "bytes": 442,
+      "sha256": "24d93aba7f37f46239435a3ee14e48e1fe42beec47d976ff82fd75692526d002"
+    },
+    {
+      "path": "qa/native-validation.json",
+      "bytes": 3597,
+      "sha256": "de6d435d4415fc354ff1924b2efdf39cb920426f91538c91243b8c9bcdbf9bc4"
+    },
+    {
+      "path": "qa/public-idml-validation.json",
+      "bytes": 3693,
+      "sha256": "b585294b166e8ca31d7ab38191ad8adc3aae74ccc1abc4ea310f0fc250ee8d37"
+    },
+    {
+      "path": "qa/public-pdf-validation.json",
+      "bytes": 3669,
+      "sha256": "aa227b6d0a86a9fa845736855aa7e7fa561894404d6095c4da4f6ea3dae4f461"
+    },
+    {
+      "path": "qa/release-validation.json",
+      "bytes": 5303,
+      "sha256": "446556727f40f0a9d2eb0b31efa42b54291314a8a3acc79936e5a73a0348b012"
+    },
+    {
+      "path": "scripts/Finalize_Public_Paper_InDesign.jsx",
+      "bytes": 9374,
+      "sha256": "c885cb34f2c1c3c52885e2c6fe9670c083d108e326e603a60fe6d28128d17002"
+    },
+    {
+      "path": "scripts/Verify_Saved_Public_Paper_InDesign.jsx",
+      "bytes": 5370,
+      "sha256": "5015d68ec05874a8871177a6f7e3382ad4a2825141adacdd0193a746db57f7ae"
+    },
+    {
+      "path": "scripts/analyze_experiment.py",
+      "bytes": 5953,
+      "sha256": "99075e4269c8b5c1ed20722791c750e4ece1bd7244f6a28d0d8fe2d4debea080"
+    },
+    {
+      "path": "scripts/build_manuscript.py",
+      "bytes": 47791,
+      "sha256": "e758315fb5345bf89a747290e95bd6c6aedfb1af97c19013e3947205aaa1e5c2"
+    },
+    {
+      "path": "scripts/build_paper.py",
+      "bytes": 10185,
+      "sha256": "3913209734251842a0645910342c89152047661e7ac84f6951035bf896ddd0a3"
+    },
+    {
+      "path": "scripts/check_calendar_observations.py",
+      "bytes": 4731,
+      "sha256": "226562fa2e6bebf0d18db7cef69865484bbe61c17ffe12ca75dca1809cb0c93d"
+    },
+    {
+      "path": "scripts/format_sensitivity.py",
+      "bytes": 1701,
+      "sha256": "5051954bbd7524102b9fff27f9b7265d267335f29192adebdce8b2f0b8f0b1ab"
+    },
+    {
+      "path": "scripts/integrity.py",
+      "bytes": 1466,
+      "sha256": "4f09fca4d2d9cd3b240bafb9b33caf48faf4d6fc5aca796afc43b9d23f3dd213"
+    },
+    {
+      "path": "scripts/reproduce.py",
+      "bytes": 2819,
+      "sha256": "dd13f5dbab150b0ee8b7a66b5d1571681a3546a6b048d6181df3cf01efb57cbb"
+    },
+    {
+      "path": "scripts/verify_paper_pdf.py",
+      "bytes": 4075,
+      "sha256": "c6fd50b72a6fab97886bf52b0b578a22733612ccbcbba1ba0a8ba8f011790bb1"
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+[
+  {
+    "case_id": "C01",
+    "family_id": "ordinary-19900515",
+    "category": "ordinary_known",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 14,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C02",
+    "family_id": "ordinary-19900515",
+    "category": "ordinary_unknown",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": null,
+      "minute": null,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C03",
+    "family_id": "ordinary-19900515",
+    "category": "known_midnight",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 0,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C04",
+    "family_id": "gregorian-leap-2000",
+    "category": "valid_gregorian_leap_day",
+    "input": {
+      "year": 2000,
+      "month": 2,
+      "day": 29,
+      "hour": 12,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C05",
+    "family_id": "gregorian-nonleap-1900",
+    "category": "invalid_gregorian_date",
+    "input": {
+      "year": 1900,
+      "month": 2,
+      "day": 29,
+      "hour": 12,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C06",
+    "family_id": "ipchun-2025",
+    "category": "embedded_term_-1_minute",
+    "input": {
+      "year": 2025,
+      "month": 2,
+      "day": 3,
+      "hour": 22,
+      "minute": 48,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C07",
+    "family_id": "ipchun-2025",
+    "category": "embedded_term_+0_minute",
+    "input": {
+      "year": 2025,
+      "month": 2,
+      "day": 3,
+      "hour": 22,
+      "minute": 49,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C08",
+    "family_id": "ipchun-2025",
+    "category": "embedded_term_+1_minute",
+    "input": {
+      "year": 2025,
+      "month": 2,
+      "day": 3,
+      "hour": 22,
+      "minute": 50,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C09",
+    "family_id": "ipchun-2025",
+    "category": "ipchun_unknown",
+    "input": {
+      "year": 2025,
+      "month": 2,
+      "day": 3,
+      "hour": null,
+      "minute": null,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C10",
+    "family_id": "ipchun-2026",
+    "category": "embedded_term_-1_minute",
+    "input": {
+      "year": 2026,
+      "month": 2,
+      "day": 4,
+      "hour": 4,
+      "minute": 37,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C11",
+    "family_id": "ipchun-2026",
+    "category": "embedded_term_+0_minute",
+    "input": {
+      "year": 2026,
+      "month": 2,
+      "day": 4,
+      "hour": 4,
+      "minute": 38,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C12",
+    "family_id": "ipchun-2026",
+    "category": "embedded_term_+1_minute",
+    "input": {
+      "year": 2026,
+      "month": 2,
+      "day": 4,
+      "hour": 4,
+      "minute": 39,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C13",
+    "family_id": "ipchun-2026",
+    "category": "ipchun_unknown",
+    "input": {
+      "year": 2026,
+      "month": 2,
+      "day": 4,
+      "hour": null,
+      "minute": null,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C14",
+    "family_id": "night-rollover-19900515",
+    "category": "night_before_default_boundary",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 23,
+      "minute": 29,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C15",
+    "family_id": "night-rollover-19900515",
+    "category": "night_at_default_boundary",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 23,
+      "minute": 30,
+      "gender": "M",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C16",
+    "family_id": "night-rollover-19900515",
+    "category": "night_yajasi",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 23,
+      "minute": 30,
+      "gender": "M",
+      "name": "합성 연구 사례",
+      "use_yaja_si": true
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C17",
+    "family_id": "night-rollover-19900515",
+    "category": "night_no_korean_offset",
+    "input": {
+      "year": 1990,
+      "month": 5,
+      "day": 15,
+      "hour": 23,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례",
+      "use_korean_time": false
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C18",
+    "family_id": "dst-19880710",
+    "category": "historical_dst_default",
+    "input": {
+      "year": 1988,
+      "month": 7,
+      "day": 10,
+      "hour": 0,
+      "minute": 10,
+      "gender": "F",
+      "name": "합성 연구 사례"
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C19",
+    "family_id": "dst-19880710",
+    "category": "historical_dst_disabled",
+    "input": {
+      "year": 1988,
+      "month": 7,
+      "day": 10,
+      "hour": 0,
+      "minute": 10,
+      "gender": "F",
+      "name": "합성 연구 사례",
+      "apply_dst_correction": false
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C20",
+    "family_id": "dst-19880710",
+    "category": "historical_dst_true_solar",
+    "input": {
+      "year": 1988,
+      "month": 7,
+      "day": 10,
+      "hour": 0,
+      "minute": 10,
+      "gender": "F",
+      "name": "합성 연구 사례",
+      "use_true_solar_time": true
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C21",
+    "family_id": "lunar-2020-month4",
+    "category": "lunar_regular",
+    "input": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "hour": 12,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례",
+      "is_lunar": true,
+      "is_leap": false
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C22",
+    "family_id": "lunar-2020-month4",
+    "category": "lunar_leap",
+    "input": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "hour": 12,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례",
+      "is_lunar": true,
+      "is_leap": true
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C23",
+    "family_id": "invalid-lunar-leap",
+    "category": "invalid_lunar_leap_month",
+    "input": {
+      "year": 2025,
+      "month": 1,
+      "day": 1,
+      "hour": 12,
+      "minute": 0,
+      "gender": "M",
+      "name": "합성 연구 사례",
+      "is_lunar": true,
+      "is_leap": true
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  },
+  {
+    "case_id": "C24",
+    "family_id": "lunar-2020-month4",
+    "category": "lunar_true_solar_interaction",
+    "input": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "hour": 0,
+      "minute": 10,
+      "gender": "M",
+      "name": "합성 연구 사례",
+      "is_lunar": true,
+      "is_leap": true,
+      "use_true_solar_time": true
+    },
+    "synthetic": true,
+    "independent_oracle_status": "not_verified"
+  }
+]

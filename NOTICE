@@ -1,0 +1,36 @@
+saju-llm-fact-check
+Copyright 2026 박성모 (박성모).
+
+This repository contains the public edition of the research manuscript
+"Preserving Facts between Computation and Explanation: A Boundary-Case Study
+of a Local Saju Language Model", its analysis code, and preserved observations.
+The author's original manuscript, code, and accompanying original documentation
+are made available under the Apache License, Version 2.0. See LICENSE.
+
+The observed requests and responses are preserved as research records, including
+unsuccessful outputs. Their inclusion does not grant rights in model weights or
+change the model provider's terms. The recorded model identifier is the local
+runtime tag gemma4:26b-mlx, not a redistribution of that model.
+
+External astronomical facts were transcribed from page 8 of the Korea Astronomy
+and Space Science Institute's published 2025 and 2026 almanacs. Bibliographic
+metadata, source URLs, page numbers and source-document SHA-256 values are in
+evidence/kasi-oracle/source_manifest.json. The complete almanac PDFs are not
+included. Citations and factual fixtures do not imply KASI endorsement or a
+license grant over KASI's publications.
+
+Model weights, the audited calendar engine and its SQLite database, commercial
+font programs, and complete third-party publications are not distributed here.
+The typeset paper names Yoon fonts; their font programs and activation settings
+are not part of this repository's Apache license. Third-party names and marks
+remain those of their respective owners. Referenced publications and datasets
+are cited in the manuscript; they are not relicensed by this repository.
+
+Public-edition changes on 2026-11-03: host-specific checkout paths were removed;
+research prose and the reproduction boundary were revised for public readers;
+analysis writes derived files outside the preserved evidence directory. Twenty
+research evidence files, including all 132 requests and raw responses and the
+original frozen-input hashes, retain their original bytes. A derived provenance
+record explicitly identifies its changes and the hashes of its source documents.
+
+This NOTICE is informational and does not modify the Apache License.

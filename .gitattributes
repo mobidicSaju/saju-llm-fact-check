@@ -1,0 +1,6 @@
+* text=auto eol=lf
+evidence/** -text
+LICENSE -text
+*.pdf binary
+*.idml binary
+*.indd binary

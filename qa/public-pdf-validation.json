@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-03",
+  "pdf": "PAPER_PUBLIC_A4.pdf",
+  "pdf_sha256": "82e6ea2bdbd5f2700fceca7fb506baf47512507a3dc0fa27a4bd967850a8c9fc",
+  "pages": 16,
+  "a4": true,
+  "ordered_page_text": [
+    {
+      "page": 1,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 37
+    },
+    {
+      "page": 2,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 38
+    },
+    {
+      "page": 3,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 59
+    },
+    {
+      "page": 4,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 37
+    },
+    {
+      "page": 5,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 47
+    },
+    {
+      "page": 6,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 63
+    },
+    {
+      "page": 7,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 65
+    },
+    {
+      "page": 8,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 72
+    },
+    {
+      "page": 9,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 49
+    },
+    {
+      "page": 10,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 39
+    },
+    {
+      "page": 11,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 39
+    },
+    {
+      "page": 12,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 28
+    },
+    {
+      "page": 13,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 122
+    },
+    {
+      "page": 14,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 47
+    },
+    {
+      "page": 15,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 33
+    },
+    {
+      "page": 16,
+      "ordered_layout_text_equal": true,
+      "width_pt": 595.2755737304688,
+      "height_pt": 841.8897705078125,
+      "spans": 19
+    }
+  ],
+  "manuscript_segments_found_in_order": 449,
+  "missing_segments": [],
+  "text_bounds_outside_page": [],
+  "font_labels": [
+    "PIUKMT+Yoon Myungjo 700 60",
+    "PYLCBW+Yoon Gothic 700 60",
+    "QUAWLO+Yoon Myungjo 700 30",
+    "UJJTLM+Yoon Gothic 700 40"
+  ],
+  "pdffonts_all_four_embedded_subset_unicode": true,
+  "visual_review": {
+    "performed": true,
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "resolution_dpi": 110,
+    "findings": [],
+    "review_scope": "All rendered pages; title, equations, diagrams, table continuation, result values, public conclusion, references and appendices"
+  },
+  "native_indesign_validation_performed": false,
+  "standalone_font_program_files_distributed": false
+}

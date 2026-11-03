@@ -1,0 +1,19 @@
+Source: paper/PAPER_PUBLIC_A4.idml
+InDesign version: 21.6.0.57
+Pages: 16
+Stories: 794
+Format: positioned independent text stories, not a threaded manuscript
+Font: YoonMyungjoPro730 / 30
+Font: YoonMyungjoPro760 / 60
+Font: YoonGothicPro740 / 40
+Font: YoonGothicPro760 / 60
+Overset stories: 0
+Missing/non-approved fonts: 0
+External links: 0
+Preflight wait return: false (21.6 control-tested; not used as success flag)
+Preflight inventory characters: 205694
+Preflight profile: [Basic]
+Native preflight errors: 0
+INDD: paper/PAPER_PUBLIC_A4.indd
+PDF: paper/PAPER_PUBLIC_A4_INDESIGN.pdf
+Status: native checks and export completed; rendered PDF visual comparison still required

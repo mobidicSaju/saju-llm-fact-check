@@ -1,0 +1,67 @@
+{
+  "model": {
+    "name": "gemma4:26b-mlx",
+    "model": "gemma4:26b-mlx",
+    "modified_at": "2026-08-01T16:22:38.939515196+09:00",
+    "size": 17551093868,
+    "digest": "c8656f50f0a6d864cffd9471002949b027ce4173640c52720f04141c3d73232a",
+    "details": {
+      "parent_model": "",
+      "format": "safetensors",
+      "family": "",
+      "families": null,
+      "parameter_size": "",
+      "quantization_level": "nvfp4",
+      "runner": "mlx"
+    },
+    "capabilities": [
+      "completion",
+      "vision",
+      "tools",
+      "thinking"
+    ]
+  },
+  "show": {
+    "thinking": {
+      "values": [
+        false,
+        true
+      ],
+      "default": true
+    },
+    "parameters": "temperature                    1\ntop_k                          64\ntop_p                          0.95",
+    "renderer": "gemma4-large",
+    "parser": "gemma4",
+    "template_source": "renderer_parser",
+    "details": {
+      "parent_model": "",
+      "format": "safetensors",
+      "family": "gemma4",
+      "families": null,
+      "parameter_size": "26.2B",
+      "quantization_level": "nvfp4"
+    },
+    "model_info": {
+      "gemma4.block_count": 30,
+      "gemma4.context_length": 262144,
+      "gemma4.embedding_length": 2816,
+      "general.architecture": "gemma4",
+      "general.parameter_count": 26225562962
+    },
+    "capabilities": [
+      "completion",
+      "vision",
+      "tools",
+      "thinking"
+    ],
+    "modified_at": "2026-08-01T16:22:38.939515196+09:00",
+    "requires": "0.31.0"
+  },
+  "version": {
+    "version": "0.40.7"
+  },
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "python": "3.14.4",
+  "cpu": "Apple M5 Pro",
+  "memory_bytes": 25769803776
+}

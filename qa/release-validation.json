@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-03",
+  "platform": "Darwin",
+  "python": "3.14.4",
+  "original_evidence_files_unchanged": {
+    "calendar-case-observations.json": true,
+    "calendar-metamorphic-observations.json": true,
+    "experiment-frozen-hashes.json": true,
+    "experiment-protocol.json": true,
+    "experiment-raw.jsonl": true,
+    "experiment-requests.json": true,
+    "experiment-scored.json": true,
+    "experiment-summary.json": true,
+    "format-sensitivity.json": true,
+    "official-ipchun-engine-checks.json": true,
+    "official-lunar-month-start-checks.json": true,
+    "official-solar-term-comparison.json": true,
+    "runtime.json": true,
+    "synthetic-cases.json": true,
+    "unknown-time-enumeration.json": true,
+    "validator-fault-injection.json": true,
+    "warmup.json": true,
+    "kasi-oracle/source_manifest.json": true,
+    "kasi-oracle/lunar_month_starts_2025_2026.json": true,
+    "kasi-oracle/solar_terms_2025_2026.json": true
+  },
+  "original_case_study_manuscript_sha256": {
+    "manuscript.json": "aa688d0b27085f99570ef795282142a6729baffb074c7aab6d13b23e154ebb0d",
+    "manuscript.txt": "d808f336d459ce49574d057f99559853561237a23d605caee39b12347cacf9db",
+    "scripts/build_manuscript.py": "47ca43cd1e2db7ff1a79b495bf79ba72a3a4038bdd2c94308338c5c08e6be1bc"
+  },
+  "manuscript_author": "박성모",
+  "manuscript_email": "vividsaebom@gmail.com",
+  "manuscript_blocks": 113,
+  "measured_result_tables_unchanged": [
+    "표 2. 실험 조건과 정보의 차이",
+    "표 3. 외부 기준과의 대조 결과",
+    "표 4. 실제 동작에 영향을 주는 절기 차이",
+    "표 5. 1,440분 열거에서 관측된 필드별 서로 다른 값의 수",
+    "표 6. 조건별 구현 기준 충실도와 반복 일치도",
+    "표 7. 응답 형식과 요청 벽시계",
+    "표 8. C 조건에서 확정값을 만들어 낸 세 응답",
+    "표 A1. 고정된 입력 24개와 사용 범위"
+  ],
+  "reproduction": {
+    "evidence_integrity": {
+      "original_files": 20,
+      "derived_provenance_files": 1,
+      "frozen_inputs": 4
+    },
+    "calls": 132,
+    "exact_responses": {
+      "A": 0,
+      "B": 44,
+      "C": 41
+    },
+    "generated_results": {
+      "experiment-scored.json": {
+        "json_equal": true,
+        "bytes_equal": true,
+        "preserved_sha256": "5e76a511d55a9924e4a26149f3a05b91f45b72d542992b0689246c262744a308"
+      },
+      "experiment-summary.json": {
+        "json_equal": true,
+        "bytes_equal": true,
+        "preserved_sha256": "836e872ecf7f8fe0b5dc9e04872ebd28d6bf699473951057e7147e0faf77447e"
+      },
+      "validator-fault-injection.json": {
+        "json_equal": true,
+        "bytes_equal": true,
+        "preserved_sha256": "256e904ff48a19491db4b11d7692971432879c36b75f54fabdfd6efa4f9f0b18"
+      },
+      "format-sensitivity.json": {
+        "json_equal": true,
+        "bytes_equal": true,
+        "preserved_sha256": "edf3786d51a2eab51a098b103153ad5486bac73e04f85c9005583b90a579021d"
+      }
+    },
+    "calendar_observation_checks": {
+      "scope": "Reanalysis of recorded observations only; no engine execution or independent source transcription.",
+      "solar_terms": {
+        "official_records": 48,
+        "paired_records": 48,
+        "exact_minute_matches": 0,
+        "minute_mismatches": 48,
+        "mean_signed_minutes": 3.5625,
+        "median_signed_minutes": 4.0,
+        "min_signed_minutes": -27,
+        "max_signed_minutes": 35,
+        "mean_absolute_minutes": 17.895833333333332,
+        "median_absolute_minutes": 19.0,
+        "max_absolute_minutes": 35,
+        "calendar_date_mismatches": 2
+      },
+      "lunar_month_starts": {
+        "cases": 25,
+        "lunar_to_solar_matches": 25,
+        "solar_to_lunar_matches": 25,
+        "noon_day_ganji_matches": 25
+      },
+      "ipchun": {
+        "cases": 6,
+        "year_month_matches": 4,
+        "robust_before_after_cases": 4,
+        "robust_before_after_matches": 2
+      },
+      "unknown_time_minutes": 5760,
+      "unknown_time_candidates": [
+        {
+          "date": "2025-02-03",
+          "candidate_counts": {
+            "year": 2,
+            "month": 2,
+            "day": 2,
+            "hour": 13
+          }
+        },
+        {
+          "date": "2026-02-04",
+          "candidate_counts": {
+            "year": 2,
+            "month": 2,
+            "day": 2,
+            "hour": 13
+          }
+        },
+        {
+          "date": "1990-05-15",
+          "candidate_counts": {
+            "year": 1,
+            "month": 1,
+            "day": 2,
+            "hour": 13
+          }
+        },
+        {
+          "date": "2000-02-29",
+          "candidate_counts": {
+            "year": 1,
+            "month": 1,
+            "day": 2,
+            "hour": 13
+          }
+        }
+      ]
+    },
+    "network_calls": 0,
+    "new_model_calls": 0,
+    "engine_reexecuted": false
+  },
+  "isolated_copy_with_spaces_and_unicode": true,
+  "tampered_raw_rejected_under_python_optimized_mode": true,
+  "manuscript_rebuild_bytes_equal": true,
+  "private_paths_or_key_patterns": [],
+  "excluded_binary_materials_found": [],
+  "native_windows_test_performed": false,
+  "new_model_calls": 0,
+  "original_research_files_written": false,
+  "license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+}
